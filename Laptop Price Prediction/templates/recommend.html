@@ -1,0 +1,98 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home</title>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" />
+    <style>
+      .card-body {
+        background-color: black;
+        border: 3px solid green;
+      }
+      .text-white {
+        color: white;
+      }
+      span {
+        color: white;
+      }
+      .wholeDt {
+        position: relative;
+        top: 200px;
+        left: 20%;
+      }
+      form {
+        width: 60%;
+        position: relative;
+        top: 200px;
+        left: 20%;
+      }
+      .displayRecom {
+        position: relative;
+        top: 190px;
+      }
+    </style>
+  </head>
+  <body style="background-color: black">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <div class="container">
+        <a class="navbar-brand" href="#">Laptop Guide</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNav"
+          aria-controls="navbarNav"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="{{ url_for('index') }}">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{ url_for('prediction_ui') }}">Price Prediction</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{ url_for('recommend_ui') }}">Recommendation</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <h1 class="text-white wholeDt" style="font-size: 30px">Laptop Recommendation</h1>
+          <form action="/recommend_laptop" method="POST">
+            <input name="laptop" type="text" class="form-control" /><br />
+            <input type="submit" value="submit" class="btn btn-lg btn-warning" />
+          </form>
+        </div>
+        {% if data %} {% for i in data%}
+        <div class="col-md-3 displayRecom" style="margin-top: 50px">
+          <div class="card">
+            <div class="card-body">
+              <div style="height: 240px; width: 250px; margin-bottom: 8px">
+                <img class="card-img-top" src="{{ i[2] }}" style="height: 100%; width: 100%" />
+              </div>
+              <h5 class="text-white">Model Name: <span>{{i[0]}}</span></h5>
+              <h6 class="text-white">OS: <span>{{i[7]}}</span></h6>
+              <h6 class="text-white">Diaplay size: <span>{{i[9]}} inch</span></h6>
+              <h6 class="text-white">Processor: <span>{{i[8]}}</span></h6>
+              <h6 class="text-white">Storage: <span>{{i[6]}}</span></h6>
+              <h6 class="text-white">Ram: <span>{{i[1]}}</span></h6>
+              <h6 class="text-white">Ratting: <span>{{i[6]}}</span></h6>
+
+              <h5 class="text-white">Price: <span>{{i[3]}}</span></h5>
+            </div>
+          </div>
+        </div>
+        {% endfor%} {% endif %}
+      </div>
+    </div>
+  </body>
+</html>

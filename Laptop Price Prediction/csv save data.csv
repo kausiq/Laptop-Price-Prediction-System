@@ -1,0 +1,1303 @@
+Company,TypeName,Ram,Weight,Price,Memory,Memory_type,cpu_mdl_nm,cpu_GHz,screen_typ,touch_display,ppi,Gpu_brand,OS
+Others,Ultrabook,8,1.37,71378.6832,128,SSD,Intel Core i5,2.3,IPS,0,226.9830047,Intel,Others
+Others,Ultrabook,8,1.34,47895.5232,128,HDD,Intel Core i5,1.8,IPS,0,127.6779401,Intel,Others
+HP,Notebook,8,1.86,30636,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Others
+Others,Ultrabook,16,1.83,135195.336,512,SSD,Intel Core i7,2.7,IPS,0,220.5346239,AMD,Others
+Others,Ultrabook,8,1.37,96095.808,256,SSD,Intel Core i5,3.1,IPS,0,226.9830047,Intel,Others
+Acer,Notebook,4,2.1,21312,500,HDD,AMD Processor,3,IPS,0,100.4546699,AMD,Windows
+Others,Ultrabook,16,2.04,114017.6016,256,HDD,Intel Core i7,2.2,IPS,0,220.5346239,Intel,Others
+Others,Ultrabook,8,1.34,61735.536,256,HDD,Intel Core i5,1.8,IPS,0,127.6779401,Intel,Others
+Asus,Ultrabook,16,1.3,79653.6,512,SSD,Intel Core i7,1.8,Full HD,0,157.3505121,Nvidia,Windows
+Acer,Ultrabook,8,1.6,41025.6,256,SSD,Intel Core i5,1.6,IPS,0,157.3505121,Intel,Windows
+HP,Notebook,4,1.86,20986.992,500,HDD,Intel Core i5,2.5,IPS,0,100.4546699,Intel,Others
+HP,Notebook,4,1.86,18381.0672,500,HDD,Intel Core i3,2,Full HD,0,141.2119981,Intel,Others
+Others,Ultrabook,16,1.83,130001.6016,256,SSD,Intel Core i7,2.8,IPS,0,220.5346239,AMD,Others
+Dell,Notebook,4,2.2,26581.392,256,SSD,Intel Core i3,2,Full HD,0,141.2119981,AMD,Windows
+Others,Ultrabook,8,0.92,67260.672,256,SSD,Intel other  Processor,1.2,IPS,0,226.4155472,Intel,Others
+Others,Ultrabook,8,1.37,80908.344,256,SSD,Intel Core i5,2.3,IPS,0,226.9830047,Intel,Others
+Dell,Notebook,8,2.2,39693.6,256,SSD,Intel Core i7,2.7,Full HD,0,141.2119981,AMD,Windows
+Others,Ultrabook,16,1.83,152274.24,512,SSD,Intel Core i7,2.9,IPS,0,220.5346239,AMD,Others
+Lenovo,Notebook,8,2.2,26586.72,1,HDD,Intel Core i3,2.4,Full HD,0,141.2119981,Nvidia,Others
+Dell,Ultrabook,8,1.22,52161.12,128,SSD,Intel Core i5,1.6,IPS,1,165.6321181,Intel,Windows
+Asus,Notebook,2,0.98,10224.432,32,HDD,Intel other  Processor,1.44,IPS,0,135.0942112,Intel,Windows
+Lenovo,Others,8,2.5,53226.72,128,SSD,Intel Core i5,2.5,IPS,0,141.2119981,Nvidia,Windows
+HP,Notebook,4,1.86,13746.24,500,HDD,AMD Processor,1.5,IPS,0,100.4546699,AMD,Others
+Dell,Others,8,1.62,43636.32,256,SSD,Intel Core i5,1.6,Full HD,1,165.6321181,Intel,Windows
+HP,Ultrabook,8,1.91,35111.52,256,SSD,Intel Core i7,1.8,Full HD,0,141.2119981,Intel,Windows
+Dell,Notebook,4,2.3,22305.1392,1,HDD,Intel Core i3,2,IPS,0,100.4546699,Intel,Windows
+Others,Ultrabook,8,1.35,58554.72,128,HDD,Intel Core i5,1.6,IPS,0,127.6779401,Intel,Others
+Dell,Notebook,8,2.2,42624,256,SSD,Intel Core i5,1.6,Full HD,0,141.2119981,AMD,Windows
+Dell,Ultrabook,8,1.88,69157.44,256,SSD,Intel Core i7,1.9,Full HD,0,141.2119981,Intel,Windows
+HP,Notebook,8,2.5,47738.88,1,HDD,Intel Core i5,1.6,Full HD,0,127.3356746,Nvidia,Windows
+Others,Notebook,4,1.89,13053.0672,64,HDD,Intel other  Processor,1.44,Full HD,0,141.2119981,Intel,Windows
+Asus,Notebook,2,1.65,10602.72,32,HDD,AMD Processor,1.5,IPS,0,111.9352036,AMD,Windows
+HP,Notebook,4,2.71,23389.92,500,HDD,AMD Processor,2.5,Full HD,0,127.3356746,AMD,Windows
+Dell,Ultrabook,16,1.2,99580.32,512,SSD,Intel Core i7,1.8,IPS,1,276.0535301,Intel,Windows
+Others,Ultrabook,8,1.35,53173.44,256,HDD,Intel Core i5,1.6,IPS,0,127.6779401,Intel,Others
+Lenovo,Notebook,4,1.44,13266.72,64,HDD,Intel Celeron series process,1.1,IPS,0,111.9352036,Intel,Windows
+Acer,Notebook,4,2.1,19553.76,1,HDD,Intel Core i3,2.7,IPS,0,100.4546699,Intel,Others
+Dell,Notebook,8,2.8,52161.12,128,SSD,Intel Core i5,1.6,IPS,0,127.3356746,AMD,Windows
+HP,Notebook,4,1.86,26037.4032,1,HDD,Intel Core i5,2.5,IPS,0,100.4546699,Intel,Windows
+HP,Notebook,8,2.1,46833.12,256,SSD,Intel Core i5,1.6,Full HD,0,141.2119981,Nvidia,Windows
+Asus,Notebook,4,2,20725.92,1,HDD,Intel Core i3,2,Full HD,0,141.2119981,Intel,Others
+Dell,Others,16,2.65,79866.72,256,SSD,Intel Core i7,2.8,IPS,0,141.2119981,Nvidia,Windows
+Asus,Notebook,8,2.3,27864.9072,1,HDD,Intel Core i5,2.5,IPS,0,100.4546699,Nvidia,Others
+Acer,Notebook,4,2.2,36336.96,256,SSD,Intel Core i5,1.6,IPS,0,141.2119981,Intel,Windows
+Dell,Others,12,2.77,53226.72,1,HDD,Intel Core i5,1.6,Full HD,1,127.3356746,Nvidia,Windows
+Others,Ultrabook,8,1.37,75604.32,256,SSD,Intel Core i5,2,IPS,0,226.9830047,Intel,Others
+Lenovo,Notebook,4,2.2,19660.32,128,SSD,Intel Core i3,2,IPS,0,100.4546699,Intel,Others
+Asus,Others,8,3.2,69210.72,256,SSD,AMD Processor,3,Full HD,0,127.3356746,AMD,Windows
+Dell,Notebook,4,2.3,34045.92,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,AMD,Windows
+Asus,Notebook,4,2.8,24828.48,1,HDD,Intel other  Processor,1.1,IPS,0,90.58340172,Nvidia,Windows
+Lenovo,Others,4,0.69,16996.32,64,HDD,Intel other  Processor,1.44,IPS,1,224.1738091,Intel,Others
+Acer,Notebook,8,2.2,44808.48,256,SSD,Intel Core i7,1.8,IPS,0,141.2119981,Nvidia,Windows
+HP,Notebook,4,1.86,21231.5472,256,SSD,AMD Processor,2.5,Full HD,0,141.2119981,AMD,Windows
+HP,Notebook,8,1.49,58767.84,512,SSD,Intel Core i7,1.8,Full HD,0,165.6321181,Intel,Windows
+Acer,Notebook,4,2.4,20459.52,1,HDD,Intel Core i3,2.4,IPS,0,100.4546699,Intel,Windows
+Dell,Notebook,8,2.13,40908.384,256,SSD,Intel Core i7,1.8,Full HD,0,141.2119981,AMD,Windows
+HP,Notebook,4,1.91,23389.92,128,SSD,Intel Core i3,2,Full HD,0,141.2119981,Intel,Windows
+Asus,Notebook,4,2,31232.2032,256,SSD,Intel Core i5,2.5,IPS,0,100.4546699,Intel,Windows
+Others,Others,16,2.43,130482.72,256,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+Asus,Notebook,4,2,22111.2,256,SSD,Intel Core i3,2,Full HD,0,141.2119981,Intel,Others
+Dell,Notebook,16,2.8,69210.72,256,SSD,Intel Core i7,1.8,Full HD,0,127.3356746,AMD,Windows
+Dell,Ultrabook,8,1.7,46833.12,256,SSD,Intel Core i5,1.6,Full HD,0,157.3505121,Intel,Windows
+Lenovo,Notebook,8,1.7,31914.72,256,SSD,Intel Core i3,2.7,IPS,0,157.3505121,Intel,Others
+Asus,Notebook,8,1.4,50136.48,256,SSD,Intel Core i5,1.6,Full HD,0,157.3505121,Intel,Windows
+HP,Notebook,8,1.86,36763.2,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Windows
+Asus,Ultrabook,16,1.8,105654.24,512,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+HP,Notebook,4,1.86,23373.4032,500,HDD,Intel Core i3,2,IPS,0,100.4546699,AMD,Windows
+HP,Notebook,4,1.44,12201.12,32,SSD,Intel Celeron series process,1.6,IPS,0,111.9352036,Intel,Windows
+Lenovo,Notebook,4,1.9,29250.72,1,HDD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Windows
+Asus,Others,12,3,50562.72,1,HDD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Others
+Others,Ultrabook,4,1.252,58021.92,128,SSD,Intel Core i5,2.5,IPS,1,200.8425599,Intel,Windows
+Dell,Ultrabook,8,1.4,50882.4,256,SSD,Intel Core i7,1.8,IPS,0,165.6321181,AMD,Windows
+Dell,Notebook,8,2.2,46353.6,256,SSD,Intel Core i7,1.8,Full HD,0,141.2119981,AMD,Windows
+Others,Others,8,2.7,58341.6,128,SSD,Intel Core i5,2.5,Full HD,0,127.3356746,Nvidia,Windows
+Acer,Notebook,8,2.1,20725.92,1,HDD,Intel Core i3,2,IPS,0,111.9352036,Intel,Windows
+Asus,Others,8,2.2,50562.72,1,HDD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Lenovo,Notebook,8,2.2,27652.32,2,HDD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Others
+Dell,Notebook,8,2.02,45554.4,128,SSD,Intel Core i7,1.8,Full HD,0,141.2119981,Intel,Windows
+Acer,Notebook,4,2.2,28238.4,1,HDD,Intel Core i3,2.7,Full HD,0,141.2119981,Nvidia,Windows
+HP,Notebook,8,2.5,52054.56,128,SSD,Intel Core i5,1.6,Full HD,0,127.3356746,Nvidia,Windows
+Dell,Ultrabook,8,1.88,58403.4048,256,SSD,Intel Core i5,1.6,IPS,0,141.2119981,Intel,Windows
+Others,Ultrabook,8,0.92,80452.8,512,SSD,Intel Core i5,1.3,IPS,0,226.4155472,Intel,Others
+HP,Notebook,8,1.63,45820.8,256,SSD,Intel Core i5,1.6,Full HD,0,157.3505121,Intel,Windows
+Lenovo,Notebook,4,2.2,21258.72,128,SSD,AMD Processor,2.5,Full HD,0,141.2119981,AMD,Windows
+Acer,Notebook,4,2.1,21045.6,1,HDD,AMD Processor,3,IPS,0,100.4546699,AMD,Windows
+Dell,Others,16,2.65,71874.72,128,SSD,Intel Core i7,2.8,IPS,0,141.2119981,Nvidia,Windows
+HP,Ultrabook,8,1.83,37242.72,256,SSD,Intel Core i7,1.8,IPS,0,141.2119981,Nvidia,Windows
+HP,Notebook,8,1.96,31914.1872,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Windows
+Asus,Others,16,2.2,77202.72,128,SSD,Intel Core i7,2.8,IPS,0,141.2119981,Nvidia,Windows
+Dell,Ultrabook,8,1.21,87858.72,256,SSD,Intel Core i7,1.8,IPS,0,165.6321181,Intel,Windows
+Asus,Others,8,2.45,37242.72,1,HDD,AMD Processor,3,Full HD,0,141.2119981,AMD,Windows
+Acer,Notebook,8,2.2,36709.92,1,HDD,Intel Core i7,1.8,Full HD,0,141.2119981,Nvidia,Windows
+HP,Notebook,16,1.49,63776.16,512,SSD,Intel Core i7,1.8,Full HD,0,165.6321181,Intel,Windows
+Dell,Others,8,2.65,63669.6,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Windows
+Asus,Ultrabook,8,1.25,55890.72,256,SSD,Intel Core i7,2.7,Full HD,0,157.3505121,Intel,Windows
+Acer,Others,8,1.5,45128.16,256,SSD,Intel Core i5,1.6,IPS,1,165.6321181,Intel,Windows
+Dell,Notebook,8,2.2,31962.672,1,HDD,Intel Core i7,2.7,Full HD,0,141.2119981,AMD,Others
+Dell,Notebook,4,2.2,25840.8,256,SSD,Intel Core i3,2,Full HD,0,141.2119981,AMD,Others
+Asus,Notebook,6,2,30742.56,256,SSD,Intel Core i3,2.4,Full HD,0,141.2119981,Nvidia,Windows
+HP,Others,12,2.62,66546.72,128,SSD,Intel Core i7,2.8,IPS,0,141.2119981,Nvidia,Windows
+HP,Notebook,8,1.91,38308.32,256,SSD,Intel Core i7,2.7,Full HD,0,141.2119981,AMD,Windows
+HP,Notebook,4,2.1,18594.72,500,HDD,AMD Processor,1.5,Full HD,0,141.2119981,AMD,Windows
+Dell,Notebook,8,2.2,34472.16,1,HDD,Intel Core i5,1.6,Full HD,0,141.2119981,AMD,Others
+HP,Ultrabook,8,1.38,59620.32,256,SSD,Intel Core i7,2.7,IPS,0,165.6321181,Nvidia,Windows
+Others,Ultrabook,8,1.252,71395.2,256,SSD,Intel Core i5,2.5,IPS,1,200.8425599,Intel,Windows
+HP,Notebook,6,1.58,35111.52,256,SSD,Intel Core i5,2.5,IPS,0,157.3505121,Nvidia,Windows
+Lenovo,Notebook,4,1.85,22105.872,1,HDD,Intel Core i3,2,Full HD,0,141.2119981,Intel,Windows
+Asus,Ultrabook,8,1.3,63563.04,256,SSD,Intel Core i7,2.7,IPS,0,157.3505121,Nvidia,Windows
+Others,Others,16,2.2,69210.72,256,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Lenovo,Notebook,8,1.58,78854.4,256,SSD,Intel Core i7,2.7,IPS,0,157.3505121,Intel,Windows
+Asus,Ultrabook,16,1.5,67239.36,256,SSD,Intel Core i7,1.8,Full HD,0,141.2119981,Nvidia,Windows
+Dell,Ultrabook,8,1.23,73473.12,256,SSD,Intel Core i7,2.4,IPS,1,276.0535301,Intel,Windows
+Lenovo,Others,8,1.37,74538.72,256,SSD,Intel Core i5,2.5,IPS,1,165.6321181,Intel,Windows
+HP,Notebook,4,1.63,38468.16,500,HDD,Intel Core i5,1.6,IPS,0,111.9352036,Intel,Windows
+Dell,Ultrabook,8,1.21,86793.12,256,SSD,Intel Core i5,1.6,IPS,0,165.6321181,Intel,Windows
+HP,Others,8,1.26,74538.1872,256,SSD,Intel Core i5,1.6,IPS,1,165.6321181,Intel,Windows
+HP,Notebook,8,1.63,57755.52,512,SSD,Intel Core i7,1.8,Full HD,0,157.3505121,Intel,Windows
+Dell,Notebook,8,2.16,60223.9824,256,SSD,Intel Core i7,1.8,IPS,0,141.2119981,Nvidia,Windows
+Asus,Notebook,4,2,30049.92,1,HDD,Intel Core i3,2,Full HD,0,127.3356746,Nvidia,Windows
+Asus,Notebook,8,1.7,59567.04,256,SSD,Intel Core i7,1.8,Full HD,0,141.2119981,Nvidia,Windows
+Acer,Notebook,6,2.1,25521.12,1,HDD,Intel Core i3,2.4,IPS,1,141.2119981,Intel,Windows
+Others,Others,16,1.8,119427.12,256,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Lenovo,Notebook,8,2.2,33513.12,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Others
+HP,Notebook,16,2.5,67718.88,512,SSD,Intel Core i7,1.8,Full HD,0,127.3356746,Nvidia,Windows
+Acer,Notebook,4,2.1,24029.28,256,SSD,AMD Processor,3,IPS,0,100.4546699,AMD,Windows
+HP,Notebook,4,1.86,13799.52,500,HDD,Intel Celeron series process,1.6,IPS,0,100.4546699,Intel,Others
+HP,Notebook,8,1.63,43263.36,1,HDD,Intel Core i5,1.6,Full HD,0,157.3505121,Intel,Windows
+Asus,Notebook,4,1.65,14811.3072,64,SSD,AMD Processor,1.5,IPS,0,111.9352036,AMD,Windows
+Dell,Notebook,16,2.8,74378.88,256,SSD,Intel Core i7,1.8,Full HD,0,127.3356746,AMD,Windows
+HP,Notebook,8,2.5,49443.84,256,SSD,Intel Core i5,1.6,Full HD,0,127.3356746,Intel,Windows
+Dell,Notebook,8,2.36,34045.3872,1,HDD,Intel Core i5,2.5,IPS,0,100.4546699,AMD,Windows
+Dell,Notebook,4,2.2,23922.72,1,HDD,Intel Core i3,2,Full HD,0,141.2119981,AMD,Windows
+Acer,Ultrabook,8,1.6,47099.52,256,SSD,Intel Core i7,1.8,IPS,0,157.3505121,Intel,Windows
+Acer,Notebook,4,2.2,30476.16,256,SSD,Intel Core i3,2.7,Full HD,0,141.2119981,Nvidia,Windows
+HP,Notebook,8,2.05,31861.44,1,HDD,Intel Core i7,2.7,IPS,0,100.4546699,Intel,Windows
+HP,Notebook,8,1.63,52640.64,256,SSD,Intel Core i7,1.8,Full HD,0,157.3505121,Intel,Windows
+Lenovo,Notebook,4,1.9,13445.7408,1,HDD,Intel Celeron series process,1.1,IPS,0,100.4546699,Intel,Others
+Asus,Others,8,3,49976.64,128,SSD,Intel Core i5,2.5,Full HD,0,127.3356746,Nvidia,Windows
+Lenovo,Notebook,4,2.2,26586.72,1,HDD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Others
+HP,Notebook,4,1.32,37242.72,256,SSD,Intel Core i5,2.5,IPS,0,165.6321181,Intel,Windows
+Acer,Notebook,4,3,34898.4,1,HDD,Intel Core i3,2.7,IPS,0,127.3356746,Nvidia,Windows
+Lenovo,Notebook,8,1.75,59461.5456,256,SSD,Intel Core i5,1.6,IPS,0,157.3505121,AMD,Windows
+Lenovo,Others,8,2.4,46300.32,256,SSD,Intel Core i7,2.8,IPS,0,141.2119981,Nvidia,Others
+Others,Notebook,4,2.1,32074.56,500,HDD,Intel Core i5,2.3,IPS,0,100.4546699,Intel,Windows
+HP,Notebook,4,1.86,19660.32,256,SSD,AMD Processor,2.5,IPS,0,100.4546699,AMD,Windows
+Asus,Ultrabook,8,1.25,58554.72,256,SSD,Intel Core i7,1.8,Full HD,0,157.3505121,Intel,Windows
+HP,Ultrabook,8,0.97,107305.92,512,SSD,Intel other  Processor,1.2,IPS,1,352.4651472,Intel,Windows
+Asus,Notebook,4,2,18328.32,1,HDD,Intel Celeron series process,1.1,Full HD,0,141.2119981,Intel,Windows
+Others,Others,16,2.9,108105.12,256,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+Acer,Notebook,4,2.1,23816.16,1,HDD,Intel Core i3,2,IPS,0,100.4546699,Intel,Windows
+Dell,Others,16,2.56,66560.5728,512,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Dell,Others,8,2.62,47898.72,1,HDD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Lenovo,Notebook,4,1.9,26533.44,128,SSD,Intel Core i5,2.5,IPS,0,100.4546699,Intel,Windows
+Others,Others,16,2.8,100699.2,256,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+HP,Ultrabook,4,1.48,57648.96,256,SSD,Intel Core i5,2.7,Full HD,0,157.3505121,Intel,Windows
+HP,Notebook,6,1.91,32980.32,256,SSD,Intel Core i5,1.6,Full HD,0,141.2119981,AMD,Windows
+Lenovo,Others,4,1.74,33513.12,256,SSD,Intel Core i3,2.4,IPS,1,157.3505121,Intel,Windows
+Asus,Others,8,1.1,70063.2,256,SSD,Intel Core i5,1.6,Full HD,1,165.6321181,Intel,Windows
+Dell,Others,8,1.56,55890.72,256,SSD,Intel Core i7,1.8,Full HD,1,141.2119981,Intel,Windows
+Others,Notebook,4,2.1,23816.16,500,HDD,Intel Core i3,2.2,IPS,0,100.4546699,Intel,Windows
+Asus,Notebook,4,2.03,21471.84,1,HDD,AMD Processor,3,IPS,0,100.4546699,AMD,Windows
+Acer,Notebook,4,3,42890.4,256,SSD,Intel Core i5,1.6,IPS,0,127.3356746,Nvidia,Windows
+Dell,Notebook,8,2.13,38787.84,256,SSD,Intel Core i5,1.6,Full HD,0,141.2119981,AMD,Windows
+Lenovo,Others,16,2.5,57489.12,256,SSD,Intel Core i7,2.8,IPS,0,141.2119981,Nvidia,Windows
+Acer,Notebook,4,2.1,18541.44,1,HDD,Intel Celeron series process,1.1,IPS,0,100.4546699,Intel,Windows
+Others,Others,16,2.4,95850.72,256,SSD,Intel Core i7,2.8,IPS,0,141.2119981,Nvidia,Windows
+Acer,Notebook,4,2.1,19367.8128,1,HDD,Intel other  Processor,1.1,IPS,0,100.4546699,Intel,Windows
+Dell,Others,8,2.56,56502.9072,128,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Acer,Notebook,8,3,45501.12,256,SSD,Intel Core i5,1.6,IPS,0,127.3356746,Nvidia,Windows
+HP,Notebook,4,1.49,40173.12,500,HDD,Intel Core i5,1.6,IPS,0,165.6321181,Intel,Windows
+Others,Ultrabook,8,1.05,71874.72,256,SSD,Intel Core i5,2.5,IPS,0,199.6920706,Intel,Windows
+HP,Notebook,6,2.71,37242.72,2,HDD,Intel Core i5,2.5,IPS,0,127.3356746,AMD,Windows
+Lenovo,Notebook,4,2.2,16463.52,500,HDD,AMD Processor,2.9,IPS,0,100.4546699,AMD,Others
+Others,Notebook,4,2,26053.92,500,HDD,Intel Core i3,2.4,IPS,0,100.4546699,Intel,Windows
+HP,Notebook,8,2.5,49177.44,256,SSD,Intel Core i5,1.6,Full HD,0,127.3356746,Nvidia,Windows
+Dell,Notebook,8,2.3,24455.52,1,HDD,Intel Core i3,2.4,IPS,0,100.4546699,Intel,Windows
+Acer,Notebook,4,2.1,23922.72,128,SSD,Intel Core i3,2,IPS,0,100.4546699,Intel,Windows
+Others,Others,32,4.4,149130.72,512,SSD,Intel Core i7,2.9,Full HD,0,119.7232158,Nvidia,Windows
+Lenovo,Notebook,8,1.9,43316.64,128,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,AMD,Windows
+HP,Others,8,1.29,79866.72,256,SSD,Intel Core i5,1.6,IPS,1,331.2642361,Intel,Windows
+Dell,Notebook,16,2.02,55890.72,256,SSD,Intel Core i7,1.8,Full HD,0,141.2119981,AMD,Others
+Dell,Ultrabook,8,1.23,74538.72,256,SSD,Intel Core i5,1.6,Full HD,0,165.6321181,Intel,Windows
+Lenovo,Others,16,1.4,98514.72,512,SSD,Intel Core i7,1.8,IPS,1,316.9650604,Intel,Windows
+Others,Notebook,8,2,42251.04,128,SSD,Intel Core i5,2.5,IPS,0,100.4546699,Intel,Windows
+Others,Notebook,8,1.95,63882.72,256,SSD,Intel Core i5,1.6,IPS,0,141.2119981,Nvidia,Others
+Dell,Notebook,16,2.77,82530.72,512,SSD,Intel Core i7,1.8,Full HD,1,127.3356746,Nvidia,Windows
+Dell,Notebook,16,2.06,127712.16,512,SSD,Intel Core i7,2.8,IPS,1,282.4239962,Nvidia,Windows
+Lenovo,Others,8,2.4,41505.12,256,SSD,Intel Core i5,2.5,IPS,0,141.2119981,Nvidia,Others
+Acer,Ultrabook,8,1.12,52693.92,256,SSD,Intel Core i5,1.2,IPS,0,165.6321181,Intel,Windows
+Dell,Notebook,8,2.8,57808.8,128,SSD,Intel Core i7,1.8,Full HD,0,127.3356746,AMD,Windows
+Lenovo,Others,16,1.42,150462.72,1,SSD,Intel Core i7,2.7,IPS,1,209.8006829,Intel,Windows
+Others,Notebook,4,1.3,13852.8,32,HDD,Intel Celeron series process,1.1,IPS,0,157.3505121,Intel,Windows
+Others,Ultrabook,8,1.3,53274.672,256,SSD,Intel Core i5,2.5,IPS,0,165.6321181,Nvidia,Others
+Lenovo,Notebook,8,2.8,37189.44,256,SSD,Intel Core i5,1.6,IPS,0,106.1130621,Nvidia,Others
+Dell,Others,8,1.62,44701.92,1,HDD,Intel Core i7,1.8,IPS,1,165.6321181,Intel,Windows
+HP,Notebook,8,2.5,48697.92,1,HDD,Intel Core i5,1.6,IPS,0,127.3356746,Nvidia,Windows
+Others,Others,32,3.49,324954.72,1,SSD,Intel Core i7,2.9,IPS,1,254.6713491,Nvidia,Windows
+HP,Notebook,8,1.49,51095.52,512,SSD,Intel Core i5,1.6,Full HD,0,165.6321181,Intel,Windows
+HP,Others,16,3.35,73473.12,256,SSD,Intel Core i7,2.8,IPS,0,127.3356746,Nvidia,Windows
+HP,Notebook,8,2.5,55677.6,256,SSD,Intel Core i7,1.8,Full HD,0,127.3356746,Nvidia,Windows
+Dell,Others,16,2.65,98301.6,512,SSD,Intel Core i7,2.8,IPS,0,282.4239962,Nvidia,Windows
+Lenovo,Notebook,4,2.1,26267.04,128,SSD,Intel Core i5,2.3,IPS,0,100.4546699,Intel,Windows
+Acer,Notebook,8,2.23,39533.76,1,HDD,Intel Core i7,2.7,Full HD,0,141.2119981,Nvidia,Windows
+Lenovo,Others,16,3.2,93186.72,512,SSD,Intel Core i7,2.8,IPS,0,141.2119981,Nvidia,Windows
+Dell,Others,16,2.8,162770.4,256,SSD,Intel other  Processor,3,IPS,0,282.4239962,Nvidia,Windows
+Lenovo,Others,16,2.4,74485.44,512,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Others
+Dell,Notebook,6,2.3,23389.92,1,HDD,Intel Core i3,2.4,IPS,1,100.4546699,Intel,Windows
+Dell,Ultrabook,8,1.21,103842.72,256,SSD,Intel Core i7,1.8,IPS,1,331.2642361,Intel,Windows
+Dell,Ultrabook,8,1.2,77202.72,256,SSD,Intel Core i7,1.8,Full HD,0,165.6321181,Intel,Windows
+Lenovo,Notebook,8,2.2,31808.16,256,SSD,Intel Core i5,2.5,IPS,0,100.4546699,Intel,Windows
+Acer,Notebook,8,2.4,41505.12,1,HDD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Others
+Asus,Others,16,2.9,74964.96,256,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+HP,Notebook,4,2.1,18594.72,500,HDD,Intel Core i3,2,Full HD,0,141.2119981,Intel,Others
+Lenovo,Notebook,8,2.2,29250.72,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Others
+Others,Ultrabook,8,1.05,79866.72,512,SSD,Intel Core i7,2.7,IPS,0,199.6920706,Intel,Windows
+Dell,Ultrabook,8,1.4,49650.5664,256,SSD,Intel Core i7,1.8,IPS,0,165.6321181,AMD,Windows
+Lenovo,Notebook,8,2.8,31381.92,1,HDD,Intel Core i5,2.5,IPS,0,106.1130621,Nvidia,Others
+HP,Notebook,8,1.63,54931.68,256,SSD,Intel Core i7,1.8,Full HD,0,157.3505121,Nvidia,Windows
+Dell,Ultrabook,8,1.6,61218.72,256,SSD,Intel Core i5,1.6,Full HD,0,157.3505121,Intel,Windows
+Dell,Others,16,1.62,68145.12,512,SSD,Intel Core i7,1.8,Full HD,1,165.6321181,Intel,Windows
+Dell,Notebook,8,2.2,36089.208,256,SSD,Intel Core i5,1.6,Full HD,0,141.2119981,AMD,Others
+Lenovo,Others,8,1.74,47898.72,256,SSD,Intel Core i5,1.6,IPS,0,157.3505121,Intel,Windows
+Others,Ultrabook,8,1.2,72620.64,256,SSD,Intel Core i7,2.5,Full HD,0,165.6321181,Intel,Windows
+HP,Notebook,8,2.1,42304.32,1,HDD,Intel Core i5,1.6,Full HD,0,141.2119981,Intel,Windows
+Dell,Others,16,4.42,130873.7952,256,SSD,Intel Core i7,2.8,IPS,0,127.3356746,Nvidia,Windows
+Acer,Notebook,8,2.2,44328.96,256,SSD,Intel Core i7,2.7,Full HD,0,141.2119981,Nvidia,Windows
+Dell,Notebook,16,2.3,45768.0528,1,HDD,Intel Core i7,2.7,Full HD,1,141.2119981,AMD,Windows
+Asus,Notebook,8,2,40972.32,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Windows
+Asus,Notebook,8,2.69,47472.48,256,SSD,Intel Core i5,2.5,Full HD,0,127.3356746,Nvidia,Windows
+HP,Notebook,8,1.9,67612.32,1,HDD,Intel Core i7,2.7,Full HD,0,141.2119981,AMD,Windows
+Asus,Notebook,4,2.37,21258.1872,1,HDD,Intel Core i3,2.4,IPS,0,100.4546699,Intel,Windows
+HP,Notebook,4,2.1,17582.4,500,HDD,AMD Processor,1.5,IPS,0,100.4546699,AMD,Windows
+Lenovo,Others,16,3.2,79866.72,256,SSD,Intel Core i7,2.8,IPS,0,141.2119981,Nvidia,Windows
+Dell,Notebook,8,1.6,45767.52,256,SSD,Intel Core i5,2.5,Full HD,0,157.3505121,Intel,Windows
+Acer,Others,8,1.6,36709.92,256,SSD,Intel Core i5,2.3,IPS,1,165.6321181,Intel,Windows
+Dell,Notebook,16,2.36,47898.72,256,SSD,Intel Core i7,2.7,Full HD,0,141.2119981,AMD,Others
+Acer,Notebook,4,2.1,20779.2,1,HDD,Intel Core i3,2,IPS,0,100.4546699,Intel,Others
+Asus,Notebook,4,2.2,30636,128,SSD,AMD Processor,2.5,Full HD,0,141.2119981,AMD,Windows
+Asus,Others,32,4.7,207259.2,512,SSD,Intel Core i7,2.9,Full HD,0,127.3356746,Nvidia,Windows
+Acer,Others,8,2.5,45074.88,256,SSD,Intel Core i5,2.5,IPS,0,141.2119981,Nvidia,Windows
+Lenovo,Notebook,8,2.2,31381.92,128,SSD,Intel Core i3,2,IPS,0,100.4546699,Intel,Windows
+Asus,Notebook,8,2.1,61005.6,128,SSD,Intel Core i7,1.8,Full HD,0,127.3356746,Nvidia,Windows
+Asus,Notebook,8,2.69,47365.92,128,SSD,Intel Core i7,2.7,Full HD,0,127.3356746,Nvidia,Others
+Dell,Others,8,2.56,46833.12,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Windows
+Lenovo,Others,8,1.38,57489.12,256,SSD,Intel Core i7,2.7,IPS,1,158.4825302,Intel,Windows
+Dell,Notebook,8,2.2,52480.8,128,SSD,Intel Core i7,1.8,Full HD,0,141.2119981,AMD,Windows
+HP,Notebook,8,2.04,29783.52,1,HDD,Intel Core i5,2.5,IPS,1,100.4546699,Intel,Windows
+Asus,Others,16,3.6,159786.72,256,SSD,Intel Core i7,2.9,Full HD,0,127.3356746,Nvidia,Windows
+HP,Notebook,4,1.49,35964,500,HDD,Intel Core i5,1.6,IPS,0,165.6321181,Intel,Windows
+Others,Ultrabook,8,1.37,108691.2,512,SSD,Intel Core i5,3.1,IPS,0,226.9830047,Intel,Others
+Dell,Others,8,2.08,43636.32,1,HDD,Intel Core i7,1.8,IPS,1,141.2119981,Intel,Windows
+Asus,Others,16,4.3,95850.72,256,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+Asus,Notebook,4,1.68,24988.32,1,HDD,AMD Processor,3,IPS,0,100.4546699,AMD,Windows
+Lenovo,Others,8,1.37,98514.72,512,SSD,Intel Core i7,1.8,IPS,1,158.4825302,Intel,Windows
+Acer,Notebook,4,3,37402.56,256,SSD,Intel Core i3,2.7,IPS,0,127.3356746,Nvidia,Windows
+Dell,Ultrabook,8,1.41,50562.72,256,SSD,Intel Core i5,1.6,Full HD,0,165.6321181,Intel,Windows
+HP,Notebook,8,1.91,23757.552,128,SSD,AMD Processor,2.5,IPS,0,100.4546699,AMD,Windows
+HP,Notebook,16,2.9,56423.52,1,HDD,Intel Core i7,1.8,IPS,0,127.3356746,Nvidia,Windows
+Others,Others,16,4.14,133146.72,512,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+Lenovo,Others,8,2,90522.72,512,SSD,Intel Core i7,2.8,IPS,1,141.2119981,Nvidia,Windows
+Dell,Notebook,8,2.8,60845.76,128,SSD,Intel Core i7,1.8,Full HD,0,127.3356746,AMD,Windows
+Lenovo,Notebook,4,2.2,23656.32,256,SSD,Intel Core i3,2,Full HD,0,141.2119981,Intel,Others
+HP,Notebook,4,2.1,38468.16,500,HDD,Intel Core i5,1.6,IPS,0,141.2119981,Intel,Windows
+Dell,Notebook,4,2.18,35004.96,1,HDD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Windows
+Dell,Notebook,8,2.24,30103.2,1,HDD,Intel Core i5,2.5,Full HD,0,141.2119981,AMD,Windows
+Dell,Others,8,2.67,42570.72,256,SSD,Intel Core i5,1.6,Full HD,1,141.2119981,Intel,Windows
+Asus,Others,8,1.1,79866.72,512,SSD,Intel Core i7,1.8,Full HD,1,165.6321181,Intel,Windows
+Lenovo,Notebook,4,2.2,24881.76,1,HDD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Others
+HP,Notebook,8,2.5,54239.04,1,HDD,Intel Core i7,1.8,Full HD,0,127.3356746,Nvidia,Windows
+Lenovo,Notebook,8,2.05,46886.4,256,SSD,Intel Core i7,1.8,Full HD,0,141.2119981,Intel,Windows
+Others,Ultrabook,8,1.37,104370.192,512,SSD,Intel Core i5,2.9,IPS,0,226.9830047,Intel,Others
+Asus,Others,16,3.2,82530.72,256,SSD,AMD Processor,3,Full HD,0,127.3356746,AMD,Windows
+Dell,Notebook,8,2.14,39164.5296,256,SSD,Intel Core i7,1.8,Full HD,0,141.2119981,AMD,Others
+Lenovo,Others,16,1.36,133146.72,512,SSD,Intel Core i7,2.6,IPS,1,209.8006829,Intel,Windows
+Others,Notebook,8,2.2,43263.36,500,HDD,Intel Core i7,2.5,IPS,0,100.4546699,Nvidia,Windows
+Dell,Notebook,12,2.3,37992.3696,1,HDD,Intel Core i7,2.7,IPS,0,100.4546699,Intel,Windows
+Dell,Notebook,8,2.8,58554.72,128,SSD,Intel Core i7,1.8,Full HD,0,127.3356746,AMD,Others
+Acer,Notebook,8,2.2,39693.6,1,HDD,Intel Core i7,1.8,IPS,0,141.2119981,Nvidia,Windows
+Lenovo,Notebook,4,2.8,26053.92,1,HDD,Intel Core i3,2,IPS,0,106.1130621,Intel,Windows
+Lenovo,Notebook,8,2.8,45234.72,2,HDD,Intel Core i7,1.8,Full HD,0,127.3356746,Nvidia,Others
+Lenovo,Notebook,6,2.8,45767.52,128,SSD,Intel Core i7,2.7,IPS,0,106.1130621,Nvidia,Windows
+Dell,Notebook,4,2.25,22803.84,1,HDD,Intel Core i3,2,Full HD,0,141.2119981,AMD,Others
+Lenovo,Others,8,2.5,44169.12,256,SSD,Intel Core i5,2.5,IPS,0,141.2119981,Nvidia,Windows
+Lenovo,Notebook,6,2.2,30849.12,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Windows
+Acer,Notebook,8,3,50669.28,256,SSD,Intel Core i7,1.8,IPS,0,141.2119981,Nvidia,Windows
+Acer,Notebook,12,2.15,35111.52,1,HDD,Intel Core i7,2.7,IPS,1,141.2119981,Intel,Windows
+Lenovo,Notebook,8,1.95,58448.16,256,SSD,Intel Core i7,2.7,IPS,0,141.2119981,Intel,Windows
+Asus,Ultrabook,8,1.7,52054.56,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Windows
+Lenovo,Others,16,2.5,62817.12,256,SSD,Intel Core i7,2.8,IPS,0,141.2119981,Nvidia,Windows
+Lenovo,Notebook,8,2.2,35112.0528,1,HDD,Intel Core i7,2.7,Full HD,0,141.2119981,Nvidia,Others
+Acer,Notebook,2,2.19,10602.72,16,SSD,Intel Celeron series process,1.5,IPS,0,100.4546699,Intel,Windows
+Asus,Others,8,3,63243.36,1,HDD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+HP,Notebook,8,2.54,26053.92,1,HDD,Intel Core i3,2,IPS,0,106.1130621,Intel,Windows
+Dell,Notebook,8,2,97449.12,256,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Lenovo,Notebook,8,2.05,39373.92,256,SSD,Intel Core i5,1.6,Full HD,0,141.2119981,Intel,Windows
+Lenovo,Others,8,3.2,69210.72,1,HDD,Intel Core i7,2.8,IPS,0,141.2119981,Nvidia,Windows
+Acer,Notebook,8,2.5,52161.12,256,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Others
+Dell,Others,16,3.42,153705.3408,256,SSD,Intel Core i7,2.9,Full HD,0,127.3356746,Nvidia,Windows
+Lenovo,Notebook,6,2.4,26586.72,1,HDD,AMD Processor,2.4,Full HD,0,141.2119981,AMD,Windows
+Asus,Ultrabook,16,1.63,78215.04,512,SSD,Intel Core i7,2.7,Full HD,0,141.2119981,Nvidia,Windows
+Asus,Notebook,4,1.3,27119.52,128,SSD,Intel Core i3,2.4,IPS,0,111.9352036,Intel,Windows
+Asus,Others,16,2.9,113060.16,256,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+Lenovo,Notebook,6,2.8,34578.72,1,HDD,Intel Core i5,2.5,IPS,0,106.1130621,Nvidia,Windows
+Lenovo,Notebook,8,2.2,29250.72,2,HDD,Intel Core i5,2.5,IPS,0,100.4546699,Nvidia,Others
+Asus,Others,8,2.5,67399.2,128,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Lenovo,Notebook,4,2.2,19180.2672,1,HDD,Intel other  Processor,1.1,IPS,0,100.4546699,Intel,Others
+HP,Others,16,1.28,105228,256,SSD,Intel Core i7,2.8,Full HD,1,165.6321181,Intel,Windows
+Others,Notebook,8,2.2,55571.04,256,SSD,Intel Core i7,2.5,IPS,0,141.2119981,Nvidia,Windows
+Lenovo,Notebook,8,2.3,43636.32,128,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Windows
+HP,Notebook,4,1.86,24988.32,1,HDD,Intel Core i3,2,Full HD,0,141.2119981,Intel,Windows
+Lenovo,Notebook,8,1.1,53226.72,256,SSD,Intel Core i5,2.5,IPS,0,165.6321181,Intel,Windows
+Dell,Ultrabook,16,1.21,133146.72,1,SSD,Intel Core i7,1.8,IPS,1,331.2642361,Intel,Windows
+Others,Others,16,2.8,111834.72,256,SSD,Intel Core i7,2.8,IPS,0,141.2119981,Nvidia,Windows
+Acer,Notebook,8,2.23,24988.32,256,SSD,AMD Processor,2.2,Full HD,0,141.2119981,AMD,Windows
+Asus,Others,2,1.1,14652,32,HDD,Intel Celeron series process,1.1,IPS,1,135.0942112,Intel,Windows
+Dell,Notebook,8,2.33,44968.32,128,SSD,Intel Core i5,1.6,Full HD,0,141.2119981,AMD,Windows
+HP,Others,16,1.29,130482.72,1,SSD,Intel Core i7,1.8,IPS,1,331.2642361,Intel,Windows
+Lenovo,Notebook,4,1.45,24503.472,16,HDD,Intel Celeron series process,1.6,IPS,0,117.8265301,Intel,Windows
+HP,Notebook,8,1.95,52214.4,256,SSD,Intel Core i5,2.5,Full HD,0,157.3505121,Intel,Windows
+Acer,Notebook,4,1.4,25840.8,128,HDD,Intel other  Processor,1.6,IPS,0,135.0942112,Intel,Windows
+HP,Notebook,8,1.48,68837.76,256,SSD,Intel Core i7,2.7,Full HD,0,157.3505121,Intel,Windows
+Lenovo,Notebook,4,2.79,31381.92,1,HDD,Intel Core i5,2.5,IPS,0,106.1130621,Nvidia,Windows
+Asus,Notebook,8,2,58288.32,256,SSD,Intel Core i7,2.7,Full HD,0,157.3505121,Intel,Windows
+HP,Notebook,8,2.1,48058.56,1,HDD,Intel Core i7,1.8,IPS,0,100.4546699,Intel,Windows
+Acer,Notebook,8,2.2,35111.52,256,SSD,AMD Processor,2.7,IPS,0,100.4546699,AMD,Windows
+Lenovo,Notebook,4,1.44,15557.76,32,HDD,Intel Celeron series process,1.1,IPS,0,111.9352036,Intel,Windows
+Acer,Notebook,6,2.23,29250.72,1,HDD,Intel Core i5,2.5,IPS,0,100.4546699,Intel,Windows
+Asus,Ultrabook,8,1.7,55938.672,256,SSD,Intel Core i7,2.7,Full HD,0,141.2119981,Nvidia,Windows
+HP,Ultrabook,8,1.26,71128.8,256,SSD,Intel Core i7,2.7,Full HD,0,176.2325736,Intel,Windows
+Dell,Notebook,32,2.06,140605.92,1,SSD,Intel Core i7,2.8,IPS,1,282.4239962,Nvidia,Windows
+Others,Others,8,2.7,63882.72,256,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+Others,Notebook,8,2,50243.04,256,SSD,Intel Core i5,2.5,IPS,0,141.2119981,Intel,Windows
+Asus,Notebook,8,2,71075.52,256,SSD,Intel Core i7,2.7,Full HD,0,157.3505121,Intel,Windows
+Lenovo,Notebook,4,1.85,23922.72,1,HDD,Intel Core i3,2,Full HD,0,141.2119981,Intel,Windows
+Asus,Others,8,2.5,53226.72,256,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+HP,Notebook,8,1.48,67559.04,256,SSD,Intel Core i5,2.6,Full HD,0,157.3505121,Intel,Windows
+Dell,Ultrabook,8,1.9,55890.72,128,SSD,Intel Core i5,1.6,IPS,0,141.2119981,Nvidia,Windows
+HP,Notebook,8,1.84,60952.32,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Windows
+Asus,Notebook,4,2,14651.4672,1,HDD,Intel Celeron series process,1.1,IPS,0,100.4546699,Intel,Others
+Dell,Notebook,8,2,60885.72,256,SSD,Intel Core i5,1.6,Full HD,0,141.2119981,Nvidia,Windows
+Dell,Notebook,4,2.2,14646.672,500,HDD,Intel Celeron series process,1.6,IPS,0,100.4546699,Intel,Others
+Lenovo,Notebook,12,2.2,47898.72,2,HDD,AMD Processor,3.6,Full HD,0,141.2119981,AMD,Windows
+HP,Notebook,8,2.1,38148.48,1,HDD,Intel Core i3,2.4,IPS,0,141.2119981,Nvidia,Windows
+Lenovo,Others,16,1.4,111834.72,512,SSD,Intel Core i7,1.8,IPS,1,316.9650604,Intel,Windows
+Dell,Ultrabook,8,1.2,84129.12,256,SSD,Intel Core i7,1.8,Full HD,0,165.6321181,Intel,Windows
+Lenovo,Others,16,2.4,60153.12,256,SSD,Intel Core i7,2.8,IPS,0,141.2119981,Nvidia,Windows
+HP,Notebook,2,1.44,14865.12,32,HDD,Intel Celeron series process,1.6,IPS,0,111.9352036,Intel,Windows
+Dell,Ultrabook,16,1.88,85672.1088,512,SSD,Intel Core i7,1.9,Full HD,0,141.2119981,Intel,Windows
+Asus,Others,4,1.5,19980,32,HDD,Intel Celeron series process,1.1,IPS,1,135.0942112,Intel,Windows
+Dell,Ultrabook,8,1.9,35324.64,1,HDD,Intel Core i5,1.6,Full HD,0,141.2119981,AMD,Windows
+Dell,Notebook,16,2.06,108020.9376,512,SSD,Intel Core i7,2.8,IPS,1,282.4239962,Nvidia,Windows
+HP,Notebook,8,1.84,69477.12,256,SSD,Intel Core i7,2.7,Full HD,0,141.2119981,Intel,Windows
+Others,Others,8,2.7,75071.52,128,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+HP,Others,8,2.6,92615.0256,256,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Others,Notebook,16,2.4,74751.84,512,SSD,Intel Core i7,2.5,IPS,0,141.2119981,Nvidia,Windows
+Dell,Notebook,8,2.02,51729.552,128,SSD,Intel Core i7,1.8,Full HD,0,141.2119981,AMD,Windows
+Lenovo,Notebook,4,2.2,17155.6272,1,HDD,Intel Celeron series process,1.1,IPS,0,100.4546699,Intel,Others
+Dell,Others,8,2.65,53226.72,1,HDD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Windows
+Dell,Notebook,8,2.36,29696.6736,2,HDD,Intel Core i5,2.5,IPS,1,100.4546699,Intel,Windows
+Dell,Notebook,8,1.36,76030.56,256,SSD,Intel Core i5,2.6,Full HD,0,157.3505121,Intel,Windows
+HP,Notebook,4,1.86,23389.92,500,HDD,Intel Core i3,2,IPS,0,100.4546699,Intel,Windows
+Asus,Notebook,8,2,50349.6,256,SSD,Intel Core i5,2.5,Full HD,0,157.3505121,Intel,Windows
+Lenovo,Notebook,6,2.8,38308.32,128,SSD,Intel Core i5,2.5,IPS,0,106.1130621,Nvidia,Windows
+HP,Notebook,8,1.86,34045.92,1,HDD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Windows
+Lenovo,Notebook,8,2.2,26586.72,256,SSD,Intel Core i3,2,IPS,0,100.4546699,Nvidia,Others
+HP,Notebook,8,2.04,20725.92,2,HDD,Intel other  Processor,1.6,IPS,0,100.4546699,Intel,Windows
+Dell,Notebook,8,2.8,57808.8,128,SSD,Intel Core i5,1.6,Full HD,0,127.3356746,AMD,Windows
+Lenovo,Others,8,2.4,43103.52,128,SSD,Intel Core i5,2.5,IPS,0,141.2119981,Nvidia,Others
+Dell,Notebook,8,2.33,47898.72,256,SSD,Intel Core i7,2.7,Full HD,0,141.2119981,AMD,Windows
+HP,Ultrabook,8,1.36,93240,256,SSD,Intel Core i7,2.7,IPS,0,157.3505121,Intel,Windows
+Asus,Others,12,2.26,58554.72,512,SSD,Intel Core i7,2.7,Full HD,1,141.2119981,Nvidia,Windows
+Acer,Notebook,4,2.1,22697.28,128,SSD,AMD Processor,3,IPS,0,100.4546699,AMD,Windows
+Asus,Others,16,3.25,117162.72,256,SSD,AMD Processor,3,IPS,0,127.3356746,AMD,Windows
+Lenovo,Notebook,4,2.6,26053.92,128,SSD,AMD Processor,2.2,IPS,0,106.1130621,AMD,Windows
+Dell,Others,8,1.62,46300.8528,256,SSD,Intel Core i7,1.8,Full HD,1,165.6321181,Intel,Windows
+HP,Notebook,4,1.91,26053.3872,256,SSD,AMD Processor,3,Full HD,0,141.2119981,AMD,Windows
+Lenovo,Notebook,4,1.59,29463.84,128,SSD,Intel Celeron series process,1.1,IPS,0,135.0942112,Intel,Windows
+Dell,Notebook,4,1.8,16463.52,500,HDD,Intel Celeron series process,1.6,IPS,0,100.4546699,Intel,Windows
+Asus,Notebook,4,1.5,15238.08,32,HDD,Intel Celeron series process,1.1,IPS,0,111.9352036,Intel,Windows
+Acer,Notebook,8,2.4,45074.88,1,HDD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Others
+HP,Others,8,3.35,63456.48,128,SSD,Intel Core i7,2.8,IPS,0,127.3356746,Nvidia,Windows
+Lenovo,Notebook,4,1.85,21498.48,128,SSD,Intel Core i3,2,Full HD,0,141.2119981,Intel,Others
+Asus,Others,8,2.3,88178.4,128,SSD,Intel Core i7,2.8,IPS,0,141.2119981,Nvidia,Windows
+Lenovo,Notebook,8,1.5,58554.72,256,SSD,Intel Core i5,2.5,IPS,0,157.3505121,Nvidia,Windows
+Asus,Ultrabook,16,1.1,93181.392,512,SSD,Intel Core i7,2.7,Full HD,1,165.6321181,Intel,Windows
+Lenovo,Ultrabook,8,1.13,121584.96,512,SSD,Intel Core i7,2.7,IPS,0,209.8006829,Intel,Windows
+Lenovo,Notebook,4,1.5,29250.72,128,SSD,Intel Core i3,2.4,IPS,0,165.6321181,Intel,Windows
+Dell,Others,8,2.23,72940.32,500,HDD,Intel Core i5,2.6,Full HD,0,141.2119981,AMD,Windows
+Dell,Others,8,2,113752.8,256,SSD,Intel Core i7,2.7,IPS,0,141.2119981,Nvidia,Windows
+Lenovo,Others,16,1.42,133679.52,512,SSD,Intel Core i7,2.7,IPS,1,209.8006829,Intel,Windows
+Asus,Others,8,3,55357.92,1,HDD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+Asus,Others,16,3,84768.48,256,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+Acer,Notebook,12,2.2,36975.7872,1,HDD,Intel Core i5,1.6,IPS,0,100.4546699,Nvidia,Windows
+Others,Others,8,2.7,71874.72,256,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+Dell,Notebook,8,2.33,41498.1936,256,SSD,Intel Core i7,2.7,Full HD,0,141.2119981,AMD,Others
+HP,Ultrabook,4,1.91,26586.72,256,SSD,AMD Processor,3,Full HD,0,141.2119981,AMD,Windows
+Lenovo,Notebook,8,2.1,65510.9568,256,SSD,Intel Core i7,1.8,IPS,0,141.2119981,AMD,Windows
+Lenovo,Notebook,8,1.9,49976.64,256,SSD,Intel Core i5,2.5,IPS,0,157.3505121,Intel,Windows
+Dell,Others,8,1.78,144495.36,256,SSD,Intel Core i7,2.8,IPS,1,282.4239962,Nvidia,Windows
+Lenovo,Ultrabook,16,1.13,139860,1,SSD,Intel Core i7,2.7,IPS,0,209.8006829,Intel,Windows
+Lenovo,Notebook,4,2.2,16303.68,1,HDD,Intel Celeron series process,1.1,IPS,0,100.4546699,Intel,Windows
+Asus,Others,16,2.9,81465.12,256,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+Lenovo,Notebook,8,2.1,60978.96,256,SSD,Intel Core i5,1.6,IPS,0,141.2119981,AMD,Windows
+Acer,Notebook,8,2.5,46833.12,256,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Others
+Others,Others,16,2.8,119826.72,256,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+Asus,Ultrabook,8,1.1,99793.44,512,SSD,Intel Core i7,2.7,Full HD,0,157.3505121,Intel,Windows
+Others,Ultrabook,16,1.2,93080.16,512,SSD,Intel Core i7,2.5,Full HD,0,165.6321181,Intel,Windows
+Dell,Ultrabook,8,1.36,89510.4,512,SSD,Intel Core i7,2.8,Full HD,0,157.3505121,Intel,Windows
+Lenovo,Notebook,4,2.2,21791.52,500,HDD,Intel Core i3,2,Full HD,0,141.2119981,Intel,Windows
+Lenovo,Notebook,2,1.15,16221.096,32,HDD,Intel Celeron series process,1.1,IPS,0,135.0942112,Intel,Windows
+Lenovo,Others,8,2.67,102564,512,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Lenovo,Ultrabook,8,1.7,103523.04,512,SSD,Intel Core i7,2.8,IPS,0,209.8006829,Nvidia,Windows
+HP,Notebook,4,2.1,24988.32,1,HDD,Intel Core i3,2,Full HD,0,141.2119981,AMD,Windows
+Acer,Others,8,1.6,42038.4528,256,SSD,Intel Core i7,2.5,IPS,1,165.6321181,Intel,Windows
+Asus,Others,8,1.27,49443.84,256,SSD,Intel Core i5,2.5,IPS,1,165.6321181,Intel,Windows
+Dell,Notebook,4,2.3,31909.392,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,AMD,Others
+Dell,Notebook,4,1.65,36709.92,128,SSD,Intel Core i3,2,IPS,0,117.8265301,Intel,Windows
+HP,Ultrabook,8,1.43,79920,256,SSD,Intel Core i7,2.5,Full HD,0,157.3505121,Intel,Windows
+Dell,Notebook,8,2.14,28768.536,1,HDD,Intel Core i5,2.5,IPS,0,100.4546699,Intel,Windows
+Lenovo,Ultrabook,8,1.75,64755.4464,256,SSD,Intel Core i7,1.8,IPS,0,157.3505121,AMD,Windows
+Lenovo,Others,16,2,101178.72,512,SSD,Intel Core i7,2.8,IPS,1,282.4239962,Nvidia,Windows
+Others,Notebook,6,1.4,23922.72,64,HDD,Intel Celeron series process,1.1,IPS,0,267.338436,Intel,Windows
+HP,Notebook,8,2.31,76030.56,256,SSD,Intel Core i7,2.9,Full HD,0,141.2119981,Intel,Windows
+Asus,Notebook,8,2.3,31808.16,1,HDD,Intel Core i3,2.4,Full HD,0,141.2119981,Nvidia,Others
+Dell,Others,16,4.42,149130.72,256,SSD,Intel Core i7,2.9,IPS,0,169.7808994,Nvidia,Windows
+Dell,Others,8,2.62,61751.52,128,SSD,Intel Core i7,2.8,IPS,0,141.2119981,Nvidia,Windows
+Dell,Notebook,8,2.02,60867.072,256,SSD,Intel Core i7,1.8,Full HD,0,141.2119981,AMD,Windows
+Dell,Ultrabook,8,1.6,58554.72,256,SSD,Intel Core i7,2.8,Full HD,0,157.3505121,Intel,Others
+HP,Others,12,3.35,106506.72,256,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+Others,Others,4,1.16,15930.72,32,SSD,Intel Celeron series process,1.1,IPS,1,189.9057905,Intel,Windows
+Others,Notebook,4,1.15,14332.32,16,HDD,Intel Celeron series process,1.6,IPS,0,135.0942112,Intel,Windows
+Lenovo,Notebook,8,1.4,53812.8,256,SSD,Intel Core i7,2.7,IPS,0,165.6321181,Intel,Windows
+Lenovo,Notebook,4,1.7,31914.72,128,SSD,Intel Core i3,2.7,IPS,0,157.3505121,Intel,Windows
+Lenovo,Others,16,2.3,130269.6,512,SSD,Intel Core i7,2.8,IPS,0,282.4239962,Nvidia,Windows
+Lenovo,Notebook,16,2.5,130482.72,512,SSD,Intel Core i7,2.9,Full HD,0,141.2119981,Nvidia,Windows
+Asus,Others,8,3.2,90309.6,256,SSD,AMD Processor,3.2,Full HD,0,127.3356746,AMD,Windows
+HP,Notebook,4,2.1,18488.16,500,HDD,Intel Celeron series process,1.6,IPS,0,100.4546699,Intel,Windows
+Others,Ultrabook,16,1.1,117162.72,512,SSD,Intel Core i7,1.3,IPS,1,234.5074,Intel,Windows
+Lenovo,Ultrabook,24,1.32,126912.96,512,SSD,Intel Core i7,2.7,IPS,0,209.8006829,Intel,Windows
+Asus,Notebook,4,2,29783.52,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Others
+Lenovo,Notebook,8,2.8,27652.32,1,HDD,AMD Processor,2.5,IPS,0,106.1130621,AMD,Windows
+Dell,Notebook,4,2.2,39906.72,256,SSD,Intel Core i5,1.6,Full HD,0,141.2119981,AMD,Windows
+Lenovo,Ultrabook,8,1.36,76137.12,256,SSD,Intel Core i5,2.5,IPS,0,176.2325736,Intel,Windows
+Lenovo,Notebook,4,2.2,18594.72,128,SSD,Intel other  Processor,1.1,Full HD,0,141.2119981,Intel,Windows
+HP,Others,8,2.2,58554.72,128,SSD,Intel Core i7,2.8,IPS,0,141.2119981,Nvidia,Windows
+Dell,Notebook,8,1.64,62817.12,256,SSD,Intel Core i5,2.8,Full HD,0,157.3505121,Nvidia,Windows
+Acer,Notebook,4,2.4,23539.104,500,HDD,Intel Core i5,2.5,IPS,0,100.4546699,Intel,Others
+Dell,Others,8,2.23,106187.04,64,HDD,Intel other  Processor,3,Full HD,0,141.2119981,Nvidia,Windows
+Others,Others,8,2.2,54757.9872,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Windows
+Others,Ultrabook,16,1.25,137941.92,512,SSD,Intel Core i7,2.5,IPS,1,200.8425599,Intel,Windows
+HP,Notebook,8,1.91,31381.92,128,SSD,Intel Core i5,2.5,IPS,0,100.4546699,Intel,Windows
+Dell,Others,16,2.17,105228,256,SSD,Intel Core i7,2.7,IPS,0,141.2119981,Nvidia,Windows
+HP,Others,8,2.31,81731.52,512,SSD,Intel Core i7,2.9,IPS,0,141.2119981,Intel,Windows
+Lenovo,Notebook,8,1.65,71661.6,256,SSD,Intel Core i5,2.5,Full HD,0,157.3505121,Intel,Windows
+Dell,Notebook,8,2.36,52161.12,128,SSD,Intel Core i7,1.8,Full HD,0,141.2119981,AMD,Windows
+Dell,Others,4,1.47,25521.12,500,HDD,Intel other  Processor,1.6,IPS,1,135.0942112,Intel,Windows
+Dell,Notebook,8,4.42,109010.88,1,HDD,Intel Core i7,2.7,IPS,0,127.3356746,Nvidia,Windows
+Others,Ultrabook,4,1.252,52693.92,128,SSD,Intel other  Processor,2.2,IPS,1,200.8425599,Intel,Windows
+Others,Ultrabook,8,1.25,95850.72,256,SSD,Intel Core i7,2.5,IPS,1,200.8425599,Intel,Windows
+HP,Notebook,8,2.5,34093.872,256,SSD,Intel Core i3,2,IPS,0,106.1130621,Intel,Windows
+Acer,Notebook,4,2.23,28984.32,1,HDD,Intel Core i3,2,Full HD,0,141.2119981,Nvidia,Windows
+Acer,Notebook,4,1.4,23176.8,128,SSD,Intel Celeron series process,1.6,IPS,0,135.0942112,Intel,Windows
+Asus,Notebook,8,2.37,39906.72,1,HDD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Windows
+Lenovo,Notebook,8,1.5,42570.72,512,SSD,Intel Core i7,2.7,IPS,0,157.3505121,AMD,Others
+Lenovo,Notebook,8,2.67,111355.2,256,SSD,Intel Core i7,2.9,Full HD,0,141.2119981,Nvidia,Windows
+Asus,Notebook,4,2,16197.12,500,HDD,Intel other  Processor,1.1,IPS,0,100.4546699,Intel,Windows
+Acer,Notebook,4,2.2,24988.32,500,HDD,Intel Core i3,2,IPS,0,100.4546699,Nvidia,Windows
+Dell,Notebook,8,2.02,40439.52,2,HDD,Intel Core i5,1.6,Full HD,0,141.2119981,AMD,Windows
+HP,Others,12,3.78,90522.72,1,HDD,Intel Core i7,2.8,IPS,0,127.3356746,Nvidia,Windows
+Lenovo,Ultrabook,12,1.4,98994.24,256,SSD,Intel Core i7,2.6,IPS,0,209.8006829,Intel,Windows
+HP,Others,8,1.29,106506.72,512,SSD,Intel Core i7,1.8,IPS,1,331.2642361,Intel,Windows
+HP,Notebook,8,1.9,61485.12,500,HDD,Intel Core i5,2.5,Full HD,0,141.2119981,AMD,Windows
+Others,Ultrabook,8,1.1,67932,128,SSD,Intel Core i5,1.2,IPS,1,234.5074,Intel,Windows
+Dell,Ultrabook,8,1.42,98133.768,256,SSD,Intel Core i5,1.6,Full HD,1,165.6321181,Intel,Windows
+Asus,Notebook,12,2.06,69210.72,128,SSD,Intel Core i7,2.6,IPS,0,282.4239962,Intel,Windows
+Dell,Notebook,8,1.79,39427.2,128,SSD,Intel Core i3,2.3,IPS,0,111.9352036,Intel,Windows
+Dell,Others,8,1.78,128298.24,256,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Lenovo,Notebook,8,1.7,72673.92,180,SSD,Intel Core i5,2.5,Full HD,0,157.3505121,Intel,Windows
+Dell,Notebook,8,2.2,35964,1,HDD,Intel Core i5,1.6,Full HD,0,141.2119981,AMD,Windows
+Others,Notebook,8,1.05,89084.16,256,SSD,Intel Core i5,2.5,IPS,0,165.6321181,Intel,Windows
+Dell,Notebook,8,2.16,67239.36,512,SSD,Intel Core i7,1.8,IPS,0,141.2119981,Nvidia,Windows
+Dell,Notebook,4,2.18,31254.048,1,HDD,Intel Core i3,2.4,IPS,0,100.4546699,Intel,Windows
+HP,Notebook,4,1.49,38681.28,128,SSD,Intel Core i5,1.6,IPS,0,165.6321181,Intel,Windows
+Others,Notebook,4,1.89,13261.392,64,HDD,Intel other  Processor,1.44,Full HD,0,141.2119981,Intel,Windows
+Lenovo,Notebook,4,2.3,30103.2,128,SSD,Intel Core i3,2,IPS,0,100.4546699,Intel,Windows
+Lenovo,Notebook,8,1.75,55890.72,256,SSD,Intel Core i5,1.6,IPS,0,157.3505121,Intel,Windows
+Dell,Others,16,2.17,124568.64,512,SSD,Intel Core i7,2.7,IPS,0,141.2119981,Nvidia,Windows
+Dell,Notebook,16,2.06,101178.72,512,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Lenovo,Ultrabook,16,1.36,95797.44,512,SSD,Intel Core i7,2.7,IPS,0,176.2325736,Intel,Windows
+Asus,Ultrabook,16,0.91,103896,512,SSD,Intel Core i7,2.7,Full HD,0,176.2325736,Intel,Windows
+Lenovo,Notebook,8,2.3,53918.8272,256,SSD,Intel Core i5,2.5,IPS,0,141.2119981,Nvidia,Windows
+Others,Ultrabook,32,1.05,149130.72,512,SSD,Intel Core i7,2.7,Full HD,1,165.6321181,Intel,Windows
+Asus,Others,8,1.99,71928,128,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Acer,Notebook,8,2.2,30849.12,1,HDD,AMD Processor,2.5,IPS,0,100.4546699,AMD,Windows
+Asus,Others,24,4.33,67612.32,256,SSD,Intel Core i7,2.6,IPS,1,127.3356746,Nvidia,Windows
+Lenovo,Ultrabook,8,1.3,58554.72,180,SSD,Intel Core i5,2.3,IPS,0,125.367428,Intel,Windows
+Lenovo,Notebook,8,2.17,47893.392,256,SSD,Intel Core i7,1.8,Full HD,0,141.2119981,Intel,Windows
+HP,Notebook,8,1.48,93186.72,1,SSD,Intel Core i7,2.8,Full HD,0,157.3505121,Intel,Windows
+Lenovo,Notebook,8,1.4,50562.72,256,SSD,Intel Core i3,2.4,IPS,0,165.6321181,Intel,Windows
+Lenovo,Notebook,8,2.3,48538.08,256,SSD,Intel Core i5,2.5,IPS,0,141.2119981,Intel,Windows
+Asus,Notebook,4,1.2,18115.2,64,HDD,Intel Celeron series process,1.1,IPS,0,135.0942112,Intel,Windows
+HP,Notebook,8,1.91,32979.7872,256,SSD,Intel Core i5,2.5,IPS,0,100.4546699,AMD,Windows
+Lenovo,Others,8,1.4,85194.72,256,SSD,Intel Core i5,1.6,IPS,1,158.4825302,Intel,Windows
+Lenovo,Notebook,4,2.1,15930.72,500,HDD,Intel Celeron series process,1.1,IPS,0,111.9352036,Intel,Windows
+Lenovo,Notebook,4,1.25,14119.2,16,SSD,Intel Celeron series process,1.6,IPS,0,135.0942112,Intel,Windows
+Lenovo,Notebook,8,1.44,50562.72,256,SSD,Intel Core i5,2.5,Full HD,0,165.6321181,Intel,Windows
+Asus,Notebook,8,2,65214.72,256,SSD,Intel Core i7,2.7,Full HD,0,141.2119981,Intel,Windows
+Acer,Notebook,4,2.2,32660.64,1,HDD,Intel Core i5,1.6,IPS,0,141.2119981,Nvidia,Windows
+HP,Ultrabook,8,1.34,70489.44,512,SSD,Intel Core i7,2.7,IPS,0,165.6321181,Intel,Windows
+Lenovo,Others,8,2.4,61218.72,256,SSD,Intel Core i7,2.8,IPS,0,141.2119981,Nvidia,Others
+Dell,Ultrabook,8,1.29,47898.72,128,SSD,Intel Core i5,2.5,IPS,1,165.6321181,Intel,Windows
+Acer,Notebook,4,2.2,34045.92,500,HDD,Intel Core i7,2.7,Full HD,0,141.2119981,Nvidia,Windows
+Dell,Notebook,8,2.18,44542.08,1,HDD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Windows
+Dell,Notebook,16,2.2,64961.1072,256,SSD,Intel Core i7,1.8,Full HD,0,141.2119981,AMD,Windows
+Others,Notebook,16,1.95,74589.336,256,SSD,Intel Core i7,1.8,IPS,0,141.2119981,Nvidia,Others
+Asus,Notebook,2,1.1,13053.6,32,HDD,Intel Celeron series process,1.1,IPS,0,135.0942112,Intel,Windows
+HP,Notebook,4,2.04,27783.9216,1,HDD,Intel Core i5,1.6,IPS,1,100.4546699,Intel,Windows
+Asus,Others,24,2.24,158135.04,512,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+HP,Notebook,8,2.04,47365.92,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Windows
+Asus,Others,16,3,80133.12,256,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+Lenovo,Others,8,3.2,74538.72,256,SSD,Intel Core i7,2.8,IPS,0,141.2119981,Nvidia,Windows
+HP,Ultrabook,8,1.32,74538.72,256,SSD,Intel Core i7,2.7,IPS,0,165.6321181,Intel,Windows
+Dell,Notebook,8,1.64,68184.0144,256,SSD,Intel Core i5,2.6,Full HD,0,157.3505121,Intel,Windows
+HP,Notebook,4,1.63,36709.92,128,SSD,Intel Core i3,2,IPS,0,100.4546699,Intel,Windows
+Dell,Notebook,8,2.8,47365.92,128,SSD,Intel Core i5,1.6,IPS,0,127.3356746,AMD,Others
+Lenovo,Notebook,8,2.02,71395.2,256,SSD,Intel Core i5,2.3,Full HD,0,157.3505121,Intel,Windows
+Lenovo,Notebook,4,2.2,42570.72,1,HDD,Intel Core i7,2.7,Full HD,0,141.2119981,Nvidia,Windows
+Lenovo,Notebook,8,2.2,24455.52,2,HDD,Intel Core i3,2,IPS,0,100.4546699,Nvidia,Others
+Dell,Notebook,4,2.3,31168.8,500,HDD,Intel Core i5,2.5,Full HD,0,141.2119981,AMD,Windows
+Dell,Notebook,8,1.9,73366.56,256,SSD,Intel Core i5,2.8,Full HD,0,141.2119981,Intel,Windows
+Dell,Others,16,4.42,160520.3856,128,SSD,Intel Core i7,2.8,IPS,0,127.3356746,Nvidia,Windows
+Others,Notebook,8,2,45820.8,500,HDD,Intel Core i5,2.5,IPS,0,141.2119981,Intel,Windows
+Asus,Notebook,8,2,69210.72,256,SSD,Intel Core i7,2.7,IPS,0,282.4239962,Nvidia,Windows
+Others,Notebook,4,1.2,19660.32,32,SSD,Intel Celeron series process,1.1,IPS,0,165.6321181,Intel,Windows
+Asus,Others,8,2.3,87858.72,128,SSD,Intel Core i5,2.5,IPS,0,141.2119981,Nvidia,Windows
+Dell,Notebook,8,1.93,72940.32,256,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Dell,Notebook,8,2.2,42486.0048,256,SSD,Intel Core i5,1.6,Full HD,0,141.2119981,AMD,Windows
+HP,Notebook,4,1.86,21258.1872,256,SSD,Intel other  Processor,1.6,Full HD,0,141.2119981,Intel,Windows
+HP,Others,12,2.62,95850.72,1,HDD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+Lenovo,Notebook,8,1.87,45767.52,256,SSD,Intel Core i7,2.7,IPS,0,157.3505121,Nvidia,Windows
+Dell,Ultrabook,8,1.2,74538.72,256,SSD,Intel Core i7,1.8,IPS,1,276.0535301,Intel,Windows
+Dell,Notebook,4,1.6,39207.1536,128,SSD,Intel Core i3,2,Full HD,0,157.3505121,Intel,Windows
+HP,Ultrabook,8,1.34,61005.6,256,SSD,Intel Core i7,2.7,IPS,0,276.0535301,Intel,Windows
+Acer,Others,8,2.4,42517.44,1,HDD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Others
+Asus,Notebook,4,2,18594.72,500,HDD,AMD Processor,1.8,IPS,0,100.4546699,AMD,Windows
+HP,Notebook,4,2.1,37589.04,128,SSD,Intel Core i3,2.4,Full HD,0,141.2119981,Intel,Windows
+Lenovo,Notebook,4,1.87,41824.8,500,HDD,Intel Core i5,2.5,Full HD,0,157.3505121,Intel,Windows
+Lenovo,Notebook,4,2.15,24634.008,1,HDD,Intel Core i5,2.3,Full HD,0,141.2119981,Intel,Others
+HP,Notebook,4,1.86,21152.16,500,HDD,Intel Core i3,2,Full HD,0,141.2119981,Intel,Windows
+Lenovo,Notebook,8,1.99,92121.12,512,SSD,Intel Core i7,2.7,IPS,0,141.2119981,Intel,Windows
+Lenovo,Notebook,4,2.2,26586.72,128,SSD,Intel Core i3,2,Full HD,0,141.2119981,Intel,Windows
+Dell,Notebook,8,1.9,59513.2272,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Windows
+Dell,Others,16,4.42,143802.72,256,SSD,Intel Core i7,2.8,IPS,0,127.3356746,Nvidia,Windows
+HP,Notebook,8,2.65,28992.312,1,HDD,Intel Core i3,2,IPS,0,106.1130621,Intel,Windows
+HP,Notebook,8,2.63,68198.4,1,HDD,Intel Core i7,2.7,Full HD,0,127.3356746,Nvidia,Windows
+Asus,Notebook,4,2,11934.72,500,HDD,Intel Celeron series process,1.1,IPS,0,100.4546699,Intel,Others
+Others,Notebook,4,1.35,13586.4,32,HDD,Intel other  Processor,1.44,IPS,0,165.6321181,Intel,Windows
+Lenovo,Notebook,6,2.8,50562.72,128,SSD,Intel Core i7,2.7,IPS,0,106.1130621,Nvidia,Windows
+HP,Notebook,6,1.91,30310.992,128,SSD,AMD Processor,2.5,IPS,0,141.2119981,AMD,Windows
+Dell,Notebook,4,2.18,32921.712,1,HDD,Intel Core i3,2,IPS,0,100.4546699,AMD,Windows
+Acer,Others,4,1.25,18594.72,32,HDD,Intel Celeron series process,2,IPS,1,189.9057905,Intel,Windows
+Lenovo,Notebook,4,2.05,33566.4,128,SSD,Intel Core i3,2.7,Full HD,0,141.2119981,Intel,Windows
+HP,Ultrabook,16,1.16,104695.2,512,SSD,Intel other  Processor,1.2,IPS,1,276.0535301,Intel,Windows
+Lenovo,Notebook,8,3.4,159786.72,256,SSD,Intel Core i7,2.8,IPS,0,127.3356746,Nvidia,Windows
+Asus,Notebook,8,2.5,44701.92,128,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Windows
+Dell,Ultrabook,8,1.21,85194.72,128,SSD,Intel Core i5,1.6,IPS,1,331.2642361,Intel,Windows
+Dell,Notebook,4,1.93,51095.52,500,HDD,Intel Core i5,2.6,IPS,0,100.4546699,Intel,Windows
+Others,Notebook,8,2.2,39373.92,1,HDD,Intel Core i5,2.5,IPS,0,100.4546699,Intel,Windows
+Lenovo,Notebook,4,2.2,18328.32,500,HDD,Intel other  Processor,1.1,Full HD,0,141.2119981,Intel,Windows
+Lenovo,Notebook,4,2.02,52747.2,500,HDD,Intel Core i5,2.5,IPS,0,111.9352036,Intel,Windows
+HP,Others,8,3.14,99153.5472,500,HDD,Intel Core i5,2.8,IPS,0,106.1130621,Nvidia,Windows
+HP,Notebook,8,1.94,20725.92,2,HDD,Intel other  Processor,1.6,IPS,0,111.9352036,Intel,Windows
+HP,Notebook,6,1.95,34578.72,256,SSD,AMD Processor,3,IPS,0,141.2119981,AMD,Windows
+Lenovo,Notebook,8,2.3,44222.4,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Windows
+Lenovo,Notebook,4,2.05,36496.8,500,HDD,Intel Core i5,1.6,Full HD,0,141.2119981,Intel,Windows
+Others,Notebook,4,1.4,13266.72,32,SSD,Intel other  Processor,1.44,Full HD,0,157.3505121,Intel,Windows
+Others,Ultrabook,16,1.24,99367.2,512,SSD,Intel Core i7,2.7,Full HD,1,157.3505121,Intel,Windows
+Lenovo,Others,32,4.6,141884.64,256,SSD,Intel Core i7,2.7,IPS,0,127.3356746,Nvidia,Windows
+Others,Others,16,4.14,145401.12,512,SSD,Intel Core i7,2.9,Full HD,0,127.3356746,Nvidia,Windows
+Dell,Notebook,8,2.2,39907.2528,256,SSD,Intel Core i7,2.7,Full HD,0,141.2119981,AMD,Others
+Others,Notebook,4,1.45,20725.92,32,SSD,Intel Celeron series process,1.1,IPS,0,157.3505121,Intel,Windows
+Dell,Notebook,8,1.9,53733.9456,500,HDD,Intel Core i5,2.6,IPS,0,100.4546699,Intel,Windows
+HP,Notebook,4,1.49,38308.32,128,SSD,Intel Core i3,2.4,Full HD,0,165.6321181,Intel,Windows
+Dell,Notebook,16,1.93,81912.1392,256,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Dell,Notebook,4,1.26,15717.6,16,HDD,Intel Celeron series process,1.6,IPS,0,135.0942112,Intel,Windows
+Others,Others,16,4.5,125154.72,128,SSD,Intel Core i7,2.7,Full HD,0,127.3356746,Nvidia,Windows
+HP,Others,16,3.78,79813.44,256,SSD,Intel Core i7,2.8,IPS,0,127.3356746,Nvidia,Windows
+Lenovo,Ultrabook,12,1.4,89137.44,256,SSD,Intel Core i7,2.6,IPS,0,157.3505121,Intel,Windows
+Lenovo,Notebook,12,2.2,32447.52,1,HDD,Intel Core i7,1.8,IPS,1,100.4546699,Intel,Windows
+Asus,Others,8,2.73,94305.6,128,SSD,Intel Core i5,2.5,IPS,0,127.3356746,Nvidia,Windows
+Asus,Others,8,2.2,39373.92,1,HDD,Intel Core i5,2.5,IPS,1,100.4546699,Intel,Windows
+Lenovo,Notebook,12,2.2,50562.72,512,SSD,AMD Processor,3.6,Full HD,0,141.2119981,AMD,Windows
+Dell,Others,4,1.39,32127.84,128,SSD,Intel other  Processor,1,IPS,1,135.0942112,Intel,Windows
+Others,Notebook,16,2.5,90522.72,128,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Lenovo,Notebook,4,2.8,28185.12,500,HDD,Intel Core i3,2,Full HD,0,127.3356746,Intel,Others
+Lenovo,Notebook,8,2.29,24455.52,1,HDD,Intel Core i3,2.3,IPS,0,100.4546699,Intel,Windows
+Lenovo,Others,8,1.37,107892,512,SSD,Intel Core i7,2.7,IPS,1,165.6321181,Intel,Windows
+Lenovo,Notebook,8,1.7,78534.72,256,SSD,Intel Core i5,2.5,IPS,0,157.3505121,Intel,Windows
+Dell,Others,8,1.34,88977.6,256,SSD,Intel Core i5,2.5,Full HD,1,176.2325736,Intel,Windows
+Dell,Others,8,2.06,93932.64,256,SSD,Intel Core i7,2.8,Full HD,1,141.2119981,Nvidia,Windows
+HP,Notebook,8,1.84,64948.32,256,SSD,Intel Core i7,2.7,Full HD,0,141.2119981,Intel,Windows
+HP,Notebook,4,2.1,35616.6144,500,HDD,Intel Core i3,2.4,IPS,0,100.4546699,Intel,Windows
+Acer,Notebook,4,1.6,17529.12,32,HDD,Intel Celeron series process,1.1,Full HD,0,157.3505121,Intel,Windows
+Others,Others,16,4.14,117162.72,128,SSD,Intel Core i7,2.7,Full HD,0,127.3356746,Nvidia,Windows
+Dell,Notebook,4,2.18,24775.2,1,HDD,Intel Core i3,2,IPS,0,100.4546699,AMD,Others
+Others,Others,16,1.8,122490.72,256,SSD,Intel Core i7,2.8,IPS,0,282.4239962,Nvidia,Windows
+Others,Notebook,8,2.2,74538.72,256,SSD,Intel Core i7,2.5,IPS,0,141.2119981,Intel,Windows
+Lenovo,Notebook,6,2.4,30049.92,1,HDD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Windows
+Lenovo,Others,8,2,69210.72,256,SSD,Intel Core i7,2.8,IPS,1,141.2119981,Intel,Windows
+Acer,Notebook,4,1.6,18594.72,128,HDD,Intel other  Processor,1.6,IPS,0,111.9352036,Intel,Windows
+Lenovo,Notebook,32,2.5,261018.72,1,SSD,Intel other  Processor,3.1,IPS,0,282.4239962,Nvidia,Windows
+Dell,Others,16,2.59,46833.6528,1,HDD,Intel Core i7,2.6,Full HD,0,141.2119981,Nvidia,Windows
+Dell,Notebook,4,2.18,23650.992,1,HDD,Intel Core i3,2,IPS,0,100.4546699,Intel,Others
+Dell,Notebook,4,2.25,19127.52,1,HDD,Intel Core i3,2,IPS,0,100.4546699,Intel,Others
+Dell,Notebook,4,1.93,46300.32,500,HDD,Intel Core i5,2.6,IPS,0,100.4546699,Intel,Others
+Asus,Others,8,3,62231.04,128,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+Dell,Notebook,4,2.18,30316.32,128,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,AMD,Others
+HP,Ultrabook,8,1.84,74005.92,512,SSD,Intel Core i7,2.7,Full HD,0,141.2119981,Intel,Windows
+Others,Others,16,2.94,120831.5808,256,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Acer,Others,4,1.25,20193.12,32,HDD,Intel Celeron series process,1.6,IPS,1,135.0942112,Intel,Windows
+HP,Notebook,8,2.31,59886.72,256,SSD,Intel Core i5,2.6,IPS,0,111.9352036,Intel,Windows
+Lenovo,Notebook,8,1.65,78055.2,256,SSD,Intel Core i5,2.3,Full HD,0,157.3505121,Intel,Windows
+Dell,Notebook,4,2.2,41345.28,1,HDD,Intel Core i5,1.6,Full HD,0,141.2119981,AMD,Windows
+Others,Notebook,8,2.2,42570.72,256,SSD,Intel Core i5,2.5,IPS,0,100.4546699,Intel,Windows
+HP,Notebook,4,1.88,49656.96,500,HDD,Intel Core i5,2.3,IPS,0,100.4546699,Intel,Windows
+Lenovo,Notebook,8,2.2,47898.72,1,HDD,Intel Core i7,2.7,Full HD,0,141.2119981,Nvidia,Windows
+Others,Notebook,2,1.4,12733.92,32,HDD,Intel other  Processor,1.44,Full HD,0,157.3505121,Intel,Windows
+Lenovo,Notebook,4,2.2,24935.04,128,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Others
+Asus,Others,6,1.5,34046.4528,1,HDD,Intel Core i5,2.5,Full HD,1,165.6321181,Intel,Windows
+Dell,Notebook,8,2,96969.6,256,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Asus,Ultrabook,16,1.1,101232,512,SSD,Intel Core i7,2.7,Full HD,0,157.3505121,Intel,Windows
+Dell,Others,16,2.62,78801.12,256,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Lenovo,Notebook,4,1.8,44169.12,256,SSD,Intel Core i5,1.6,Full HD,0,141.2119981,Intel,Windows
+Lenovo,Notebook,4,2.2,30849.12,1,HDD,Intel Core i3,2,Full HD,0,141.2119981,Nvidia,Windows
+Asus,Notebook,8,2,21258.72,1,HDD,Intel Celeron series process,1.1,IPS,0,100.4546699,Intel,Windows
+Asus,Notebook,8,1.99,48304.7136,1,HDD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Windows
+Dell,Ultrabook,8,1.23,99580.32,256,SSD,Intel Core i5,1.6,IPS,1,276.0535301,Intel,Windows
+Lenovo,Notebook,2,1.42,13266.72,32,HDD,Intel Celeron series process,1.6,IPS,0,111.9352036,Intel,Windows
+Lenovo,Others,8,1.37,93635.3376,256,SSD,Intel Core i7,2.7,IPS,1,165.6321181,Intel,Windows
+Dell,Notebook,16,2.06,127818.72,1,SSD,Intel Core i7,2.8,IPS,1,282.4239962,Nvidia,Windows
+Lenovo,Others,8,2.5,59087.52,128,SSD,Intel Core i7,2.8,IPS,0,141.2119981,Nvidia,Windows
+HP,Notebook,8,2.6,27753.552,1,HDD,AMD Processor,3,IPS,0,107.9856456,AMD,Windows
+Lenovo,Ultrabook,16,1.14,130536,512,SSD,Intel Core i7,2.7,IPS,0,157.3505121,Intel,Windows
+Asus,Others,8,2.5,62284.32,1,HDD,Intel Core i7,2.8,IPS,0,141.2119981,Nvidia,Others
+Acer,Notebook,4,2.4,23976,500,HDD,Intel Core i3,2,IPS,0,100.4546699,Intel,Windows
+Lenovo,Notebook,4,1.43,14598.72,32,HDD,Intel Celeron series process,1.6,IPS,0,111.9352036,Intel,Windows
+Acer,Ultrabook,8,1.8,48964.32,256,SSD,Intel Core i5,2.5,IPS,0,157.3505121,Intel,Windows
+Others,Others,16,1.95,138474.72,256,SSD,Intel Core i7,2.8,Full HD,0,157.3505121,Nvidia,Windows
+Others,Notebook,8,1.2,64628.64,256,SSD,Intel Core i5,2.3,Full HD,0,165.6321181,Intel,Windows
+Lenovo,Ultrabook,8,1.36,84395.52,256,SSD,Intel Core i7,2.7,IPS,0,176.2325736,Intel,Windows
+Asus,Others,32,3.8,149130.72,512,SSD,Intel Core i7,2.7,IPS,0,127.3356746,Nvidia,Windows
+Acer,Others,8,2.4,37775.52,1,HDD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Others
+Dell,Ultrabook,8,1.2,77250.672,256,SSD,Intel Core i5,1.6,Full HD,0,165.6321181,Intel,Windows
+Others,Others,8,2.2,63499.104,128,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+HP,Notebook,4,1.86,19441.872,500,HDD,Intel Core i3,2,IPS,0,100.4546699,Intel,Others
+Others,Notebook,8,2,56689.92,500,HDD,Intel Core i5,2.5,IPS,0,141.2119981,Intel,Windows
+Dell,Notebook,8,2.2,48964.32,256,SSD,Intel Core i7,1.8,Full HD,0,141.2119981,AMD,Windows
+Dell,Notebook,16,2.2,60472.8,256,SSD,Intel Core i7,1.8,Full HD,0,141.2119981,AMD,Windows
+Lenovo,Others,8,3.31,63722.88,128,SSD,Intel Core i7,2.6,IPS,0,141.2119981,Nvidia,Windows
+Dell,Others,32,4.42,167691.8736,512,SSD,Intel Core i7,2.8,IPS,0,254.6713491,Nvidia,Windows
+Dell,Notebook,8,1.56,65481.12,256,SSD,Intel Core i5,2.4,Full HD,0,157.3505121,Intel,Windows
+Lenovo,Notebook,4,2.2,22324.32,500,HDD,Intel Celeron series process,1.1,IPS,0,100.4546699,Intel,Windows
+Lenovo,Notebook,4,2.2,28504.8,500,HDD,Intel Core i5,2.3,Full HD,0,141.2119981,Intel,Windows
+HP,Notebook,6,2.04,28717.92,1,HDD,Intel Core i3,2,IPS,0,141.2119981,AMD,Windows
+Others,Others,8,2.7,79215.1056,128,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+Others,Notebook,4,2.1,26533.44,128,SSD,Intel Core i3,2.1,IPS,0,100.4546699,Intel,Windows
+Dell,Notebook,8,2.06,50882.4,1,HDD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Windows
+HP,Notebook,8,2.1,39693.6,1,HDD,Intel Core i7,2.7,Full HD,0,141.2119981,AMD,Windows
+Others,Notebook,8,2,67026.24,256,SSD,Intel Core i5,2.5,IPS,0,141.2119981,Intel,Windows
+Acer,Notebook,4,2.1,21951.36,128,SSD,Intel Core i3,2,IPS,0,100.4546699,Intel,Others
+Others,Ultrabook,8,1.252,99519.048,256,SSD,Intel Core i7,2.8,IPS,1,200.8425599,Intel,Windows
+Lenovo,Notebook,8,1.9,43580.376,128,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,AMD,Windows
+Lenovo,Others,8,1.3,55091.52,256,SSD,Intel Core i5,2.5,IPS,1,165.6321181,Intel,Windows
+Lenovo,Notebook,4,2.2,18594.72,128,SSD,AMD Processor,2.2,IPS,0,100.4546699,AMD,Windows
+HP,Others,4,1.63,37242.72,128,SSD,Intel Core i3,2.4,IPS,1,157.3505121,Nvidia,Windows
+Others,Others,16,2.4,68944.32,256,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Asus,Ultrabook,8,1.1,60472.8,256,SSD,Intel Core i5,2.5,Full HD,0,157.3505121,Intel,Windows
+HP,Others,8,1.4,26373.6,64,HDD,Intel Celeron series process,1.1,IPS,1,135.0942112,Intel,Windows
+Others,Ultrabook,8,1.09,122490.72,512,SSD,Intel Core i7,1.8,IPS,0,141.2119981,Intel,Windows
+Acer,Others,16,2.5,69210.72,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Windows
+Others,Others,8,2.2,53168.112,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Windows
+Asus,Notebook,4,1.86,22324.32,128,SSD,Intel Celeron series process,1.1,IPS,0,100.4546699,Intel,Windows
+Dell,Others,16,3.21,109277.28,128,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Windows
+HP,Notebook,4,2.5,37242.72,256,SSD,Intel Core i3,2,IPS,0,127.3356746,AMD,Windows
+Lenovo,Others,8,1.19,79866.72,512,SSD,Intel Core i7,1.8,IPS,1,165.6321181,Intel,Windows
+Dell,Others,16,3.49,149916.6,256,SSD,Intel Core i7,2.9,Full HD,0,141.2119981,Nvidia,Windows
+HP,Notebook,4,1.86,32639.8608,500,HDD,Intel Core i5,2.5,IPS,0,100.4546699,AMD,Windows
+Dell,Notebook,4,2.2,29073.2976,1,HDD,Intel Core i3,2,IPS,0,100.4546699,AMD,Windows
+HP,Notebook,6,2.65,30316.32,2,HDD,AMD Processor,2.4,IPS,0,127.3356746,AMD,Windows
+Lenovo,Notebook,4,2.1,16943.04,500,HDD,Intel Celeron series process,1.6,IPS,0,100.4546699,Intel,Windows
+Acer,Notebook,4,1.45,19980,32,HDD,Intel Celeron series process,1.6,IPS,0,111.9352036,Intel,Windows
+Lenovo,Notebook,4,1.7,37242.72,256,SSD,Intel Core i5,2.5,Full HD,0,157.3505121,Intel,Windows
+HP,Others,8,3.14,101657.7072,500,HDD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+Lenovo,Others,8,1.42,137995.2,256,SSD,Intel Core i7,2.7,IPS,1,209.8006829,Intel,Windows
+Others,Notebook,8,1.5,51841.44,256,SSD,Intel Core i5,2.5,IPS,0,165.6321181,Intel,Windows
+Acer,Notebook,4,1.4,14332.32,32,HDD,Intel Celeron series process,1.6,IPS,0,135.0942112,Intel,Windows
+Lenovo,Others,16,1.38,93186.72,512,SSD,Intel Core i7,2.7,Full HD,1,157.3505121,Intel,Windows
+Asus,Others,4,1.2,35644.32,64,HDD,Intel other  Processor,0.9,Full HD,1,176.2325736,Intel,Windows
+Others,Ultrabook,16,1.36,100006.56,512,SSD,Intel Core i7,2.5,Full HD,1,165.6321181,Intel,Windows
+HP,Notebook,4,2.1,36709.92,500,HDD,Intel Core i7,2.7,IPS,0,141.2119981,AMD,Windows
+Dell,Others,8,2.56,43636.32,1,HDD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Windows
+Lenovo,Notebook,4,2.2,21258.72,256,SSD,AMD Processor,2.9,Full HD,0,141.2119981,AMD,Windows
+Lenovo,Notebook,8,2.2,22857.12,1,HDD,AMD Processor,3.6,IPS,0,100.4546699,AMD,Windows
+Lenovo,Notebook,4,2.1,33110.856,1,HDD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Windows
+Lenovo,Notebook,4,1.9,23976,500,HDD,Intel Core i3,2,IPS,0,100.4546699,Intel,Others
+Dell,Notebook,8,2.18,42357.6,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Windows
+Acer,Others,8,1.6,53226.72,256,SSD,Intel Core i5,1.6,IPS,1,165.6321181,Intel,Windows
+Lenovo,Others,16,2.18,98834.4,512,SSD,Intel Core i7,2.5,Full HD,0,141.2119981,Nvidia,Windows
+Lenovo,Notebook,8,1.8,63456.48,256,SSD,Intel Core i5,2.3,Full HD,0,157.3505121,Intel,Windows
+HP,Notebook,6,2.71,34898.9328,2,HDD,AMD Processor,2.5,IPS,0,127.3356746,AMD,Windows
+Lenovo,Others,8,2.5,66546.72,128,SSD,Intel Core i7,2.8,IPS,0,141.2119981,Nvidia,Windows
+Dell,Notebook,8,1.64,58021.92,256,SSD,Intel Core i5,2.8,Full HD,0,157.3505121,Nvidia,Others
+Dell,Notebook,8,1.98,38681.28,1,HDD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Others
+Asus,Notebook,4,1.5,15877.44,32,HDD,Intel Celeron series process,1.1,Full HD,0,157.3505121,Intel,Windows
+Dell,Notebook,16,1.93,76012.4448,512,SSD,Intel Core i5,2.6,Full HD,0,141.2119981,Intel,Windows
+Lenovo,Notebook,8,1.87,45664.6896,256,SSD,Intel Core i5,2.5,IPS,0,157.3505121,Nvidia,Windows
+Dell,Notebook,8,1.9,62817.12,256,SSD,Intel Core i5,2.6,Full HD,0,141.2119981,Intel,Windows
+Lenovo,Notebook,4,2.19,15877.44,500,HDD,AMD Processor,2,IPS,0,100.4546699,AMD,Windows
+Others,Notebook,4,1.4,14119.2,32,HDD,Intel other  Processor,1.92,IPS,0,161.7253908,Intel,Windows
+HP,Notebook,8,2.63,63936,256,SSD,Intel Core i7,2.7,Full HD,0,127.3356746,Nvidia,Windows
+Lenovo,Ultrabook,8,1.17,89864.1792,512,SSD,Intel Core i7,2.5,IPS,0,209.8006829,Intel,Windows
+HP,Others,8,1.58,44574.048,256,SSD,Intel Core i5,2.5,IPS,1,117.8265301,Intel,Windows
+Lenovo,Ultrabook,8,1.32,79866.72,256,SSD,Intel Core i5,2.5,IPS,0,157.3505121,Intel,Windows
+Dell,Others,32,4.36,194972.832,1,SSD,Intel Core i7,2.8,IPS,0,254.6713491,Nvidia,Windows
+Others,Others,8,2.7,71847.0144,128,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+Lenovo,Notebook,4,1.9,26101.872,1,HDD,Intel Core i5,2.5,IPS,0,100.4546699,Intel,Others
+Dell,Notebook,8,2.2,38308.32,128,SSD,Intel Core i5,1.6,Full HD,0,141.2119981,AMD,Windows
+Dell,Others,4,1.71,34578.72,1,HDD,Intel Core i3,2.4,Full HD,1,165.6321181,Intel,Windows
+Dell,Notebook,8,2.32,31409.6256,1,HDD,Intel Core i5,2.5,IPS,0,100.4546699,AMD,Others
+HP,Notebook,4,2.1,26053.92,1,HDD,AMD Processor,3,Full HD,0,141.2119981,AMD,Windows
+Acer,Others,16,4.2,103096.8,128,SSD,Intel Core i7,2.6,IPS,0,127.3356746,Nvidia,Windows
+Dell,Notebook,12,2.25,34578.72,1,HDD,Intel Core i5,2.5,IPS,0,100.4546699,Intel,Windows
+HP,Notebook,6,2.1,34632,128,SSD,AMD Processor,3,Full HD,0,141.2119981,AMD,Windows
+Acer,Notebook,4,2.4,29783.52,500,HDD,Intel Core i5,2.5,IPS,0,100.4546699,Intel,Windows
+Lenovo,Notebook,8,1.44,51148.8,256,SSD,Intel Core i5,2.5,IPS,0,165.6321181,Intel,Windows
+Lenovo,Notebook,4,1.85,41505.12,1,HDD,Intel Core i7,2.7,Full HD,0,141.2119981,Intel,Windows
+HP,Others,16,2.6,128884.32,256,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Dell,Others,8,1.55,35111.52,1,HDD,Intel Core i5,1.6,Full HD,1,165.6321181,Intel,Windows
+Others,Others,16,1.8,111593.8944,256,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Acer,Notebook,4,2.4,21887.424,500,HDD,Intel Core i3,2,IPS,0,100.4546699,Intel,Windows
+Dell,Notebook,8,2,64308.96,128,SSD,Intel Core i7,2.7,Full HD,0,141.2119981,Nvidia,Windows
+Dell,Notebook,8,2,35431.2,256,SSD,Intel Core i3,2,IPS,0,100.4546699,Intel,Windows
+Others,Notebook,8,1.25,81784.8,256,SSD,Intel Core i5,2.5,IPS,1,157.3505121,Intel,Windows
+Lenovo,Others,8,1.7,53226.72,256,SSD,Intel Core i5,2.5,Full HD,1,157.3505121,Intel,Windows
+Lenovo,Others,16,2.5,175770.72,1,SSD,Intel Core i7,2.8,IPS,0,282.4239962,Nvidia,Windows
+Acer,Notebook,2,1.68,17582.4,32,HDD,Intel Celeron series process,1.6,IPS,0,111.9352036,Intel,Windows
+Others,Ultrabook,16,0.81,87858.72,256,SSD,Intel Core i7,2.7,Full HD,0,165.6321181,Intel,Windows
+HP,Notebook,8,1.86,28717.92,256,SSD,Intel Core i3,2,Full HD,0,141.2119981,Intel,Windows
+Dell,Notebook,8,1.6,60031.1088,256,SSD,Intel Core i5,2.5,IPS,0,111.9352036,Intel,Windows
+HP,Others,16,3,233845.92,256,SSD,Intel other  Processor,2.9,IPS,0,127.3356746,Nvidia,Windows
+Lenovo,Notebook,4,1.4,25308,128,SSD,Intel Celeron series process,1.6,IPS,1,135.0942112,Intel,Windows
+HP,Notebook,8,1.84,101232,256,SSD,Intel Core i5,2.4,Full HD,0,141.2119981,Intel,Windows
+Asus,Notebook,4,2.45,30849.12,1,HDD,Intel Core i5,2.3,IPS,0,100.4546699,Nvidia,Others
+Lenovo,Ultrabook,4,1.7,58394.88,180,SSD,Intel Core i5,2.3,Full HD,0,157.3505121,Intel,Windows
+Asus,Notebook,4,2.37,45282.672,256,SSD,Intel Core i7,2.7,IPS,0,100.4546699,Intel,Windows
+Lenovo,Others,8,1.3,63882.72,256,SSD,Intel Core i5,1.8,IPS,1,276.0535301,Intel,Windows
+HP,Notebook,8,2.2,58554.72,128,SSD,Intel Core i5,2.5,IPS,0,141.2119981,Nvidia,Windows
+HP,Others,8,2.59,83170.08,256,SSD,Intel Core i7,2.6,Full HD,0,141.2119981,Nvidia,Windows
+Dell,Others,16,4.42,152859.7872,256,SSD,Intel Core i7,2.8,IPS,0,282.4239962,Nvidia,Windows
+Acer,Notebook,4,2.1,31914.72,256,SSD,Intel Core i5,2.5,IPS,0,100.4546699,Intel,Windows
+Lenovo,Others,8,2.5,55837.44,128,SSD,Intel Core i7,2.8,IPS,0,141.2119981,Nvidia,Windows
+Dell,Ultrabook,16,1.18,99047.52,256,SSD,Intel Core i7,2.8,Full HD,0,176.2325736,Intel,Windows
+Others,Ultrabook,8,1.1,83063.52,256,SSD,Intel Core i5,1.2,IPS,1,234.5074,Intel,Windows
+Asus,Ultrabook,8,1.2,60153.12,256,SSD,Intel Core i5,2.5,IPS,0,276.0535301,Intel,Windows
+Dell,Notebook,4,1.65,45234.72,500,HDD,Intel Core i3,2,IPS,0,117.8265301,Intel,Windows
+Acer,Notebook,4,1.6,34898.4,128,SSD,Intel Core i5,2.3,IPS,0,117.8265301,Intel,Windows
+Asus,Notebook,4,2.8,25059.7152,1,HDD,Intel other  Processor,1.1,IPS,0,90.58340172,Nvidia,Windows
+Dell,Others,16,2.72,58554.72,128,SSD,Intel Core i7,2.6,IPS,1,282.4239962,Nvidia,Windows
+Others,Ultrabook,8,1.31,85194.72,256,SSD,Intel Core i7,2.7,Full HD,1,165.6321181,Intel,Windows
+Acer,Notebook,4,2.1,15877.44,1,HDD,Intel other  Processor,1.1,IPS,0,100.4546699,Intel,Others
+Dell,Notebook,16,2.3,62938.0656,256,SSD,Intel Core i7,2.7,Full HD,0,141.2119981,AMD,Windows
+Others,Others,16,1.71,95850.72,256,SSD,Intel Core i7,2.7,Full HD,1,146.860478,AMD,Windows
+Others,Notebook,4,1.75,54345.6,128,SSD,Intel Core i5,2.3,IPS,0,111.9352036,Intel,Windows
+Dell,Others,8,2.62,58554.72,1,HDD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+HP,Ultrabook,4,1.26,66280.32,256,SSD,Intel Core i5,2.3,IPS,0,125.367428,Intel,Windows
+Asus,Others,12,2.3,44701.92,2,HDD,Intel Core i7,2.7,Full HD,1,141.2119981,Nvidia,Windows
+Lenovo,Notebook,16,2.5,126273.6,512,SSD,Intel Core i7,2.7,IPS,0,282.4239962,Nvidia,Windows
+Acer,Notebook,4,1.8,33886.08,128,SSD,Intel Core i3,2.4,IPS,0,157.3505121,Intel,Windows
+Others,Others,16,1.95,154458.72,512,SSD,Intel Core i7,2.8,Full HD,0,157.3505121,Nvidia,Windows
+Asus,Notebook,8,2,31003.632,128,SSD,Intel other  Processor,1.1,IPS,0,141.2119981,Intel,Windows
+Dell,Others,32,4.42,191211.264,1,SSD,Intel Core i7,2.8,IPS,0,127.3356746,Nvidia,Windows
+Asus,Others,16,4.3,125208,256,SSD,Intel Core i7,2.6,IPS,0,127.3356746,Nvidia,Windows
+Others,Ultrabook,16,1.47,93985.92,512,SSD,Intel Core i7,2.6,IPS,0,157.3505121,Nvidia,Windows
+Lenovo,Notebook,8,2.2,17529.12,1,HDD,Intel Celeron series process,1.6,IPS,0,100.4546699,Intel,Others
+Lenovo,Ultrabook,16,1.7,122490.72,512,SSD,Intel Core i7,2.7,Full HD,0,157.3505121,Intel,Windows
+Others,Others,16,1.6,100752.48,256,SSD,Intel Core i7,2.8,IPS,0,157.3505121,Nvidia,Windows
+Others,Others,8,2.2,58021.92,128,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Windows
+Lenovo,Others,4,2.4,53226.72,1,HDD,Intel Core i7,2.8,IPS,0,141.2119981,Nvidia,Windows
+Acer,Others,16,4.2,122490.72,256,SSD,Intel Core i7,2.8,IPS,0,127.3356746,Nvidia,Windows
+Dell,Others,8,2.62,52480.8,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Windows
+Asus,Others,8,2.24,71341.92,128,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Others,Notebook,4,1.22,10810.512,32,HDD,Intel Celeron series process,1.1,IPS,0,157.3505121,Intel,Windows
+Lenovo,Others,8,1.37,104961.6,512,SSD,Intel Core i7,2.7,IPS,1,165.6321181,Intel,Windows
+Lenovo,Others,8,2.08,51095.52,256,SSD,Intel Core i5,2.5,Full HD,1,141.2119981,AMD,Windows
+Others,Ultrabook,8,0.92,62071.2,512,HDD,Intel other  Processor,1.2,IPS,0,226.4155472,Intel,Others
+Lenovo,Others,8,1.42,124142.4,256,SSD,Intel Core i5,2.5,IPS,1,209.8006829,Intel,Windows
+Asus,Notebook,4,1.63,15930.72,32,HDD,Intel Celeron series process,1.1,IPS,0,111.9352036,Intel,Windows
+Dell,Notebook,8,1.95,43156.8,128,SSD,Intel Core i5,2.5,IPS,0,100.4546699,Intel,Windows
+Lenovo,Others,8,1.38,71874.72,256,SSD,Intel Core i7,2.7,IPS,1,158.4825302,Intel,Windows
+Dell,Notebook,8,2,39373.92,256,SSD,Intel Core i3,2,Full HD,0,141.2119981,AMD,Windows
+HP,Others,8,3.14,110017.872,256,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Asus,Notebook,8,2.37,58554.72,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Windows
+Dell,Ultrabook,8,1.29,79866.72,256,SSD,Intel Core i5,2.5,Full HD,0,165.6321181,Intel,Windows
+Dell,Notebook,8,2.06,93186.72,256,SSD,Intel Core i5,2.5,IPS,1,282.4239962,Nvidia,Windows
+Dell,Notebook,4,1.63,39640.32,128,SSD,Intel other  Processor,1.1,IPS,0,135.0942112,Intel,Windows
+HP,Notebook,8,1.26,74005.92,256,SSD,Intel Core i5,2.6,IPS,0,125.367428,Intel,Windows
+Others,Notebook,4,2.1,41558.4,500,HDD,Intel Core i5,2.3,IPS,0,100.4546699,Intel,Windows
+HP,Notebook,8,2.04,33513.12,2,HDD,AMD Processor,2.5,IPS,0,100.4546699,AMD,Windows
+Dell,Others,16,2.62,89457.12,512,SSD,Intel Core i7,2.8,IPS,0,282.4239962,Nvidia,Windows
+Lenovo,Notebook,4,2.4,32447.52,1,HDD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Windows
+HP,Others,12,3.74,93186.72,1,HDD,Intel Core i7,2.8,IPS,0,127.3356746,AMD,Windows
+Others,Others,16,2.9,128671.2,512,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+Others,Ultrabook,8,0.81,79866.72,256,SSD,Intel Core i5,2.5,Full HD,0,165.6321181,Intel,Windows
+Dell,Notebook,8,1.98,51202.08,1,HDD,Intel Core i7,2.7,Full HD,0,141.2119981,Nvidia,Windows
+Dell,Notebook,8,2.18,42081.0768,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,AMD,Windows
+Lenovo,Ultrabook,8,1.32,99047.52,256,SSD,Intel Core i7,2.7,Full HD,0,157.3505121,Intel,Windows
+Others,Ultrabook,16,1.29,95850.72,512,SSD,Intel Core i7,2.5,IPS,1,352.4651472,Intel,Windows
+HP,Notebook,4,1.23,20512.8,16,HDD,Intel Celeron series process,1.6,IPS,0,135.0942112,Intel,Windows
+Dell,Others,16,4.36,133467.4656,128,SSD,Intel Core i7,2.8,IPS,0,127.3356746,Nvidia,Windows
+Dell,Notebook,4,1.76,40226.4,500,HDD,Intel Core i5,2.3,IPS,0,111.9352036,Intel,Windows
+Lenovo,Notebook,4,2.1,26101.872,500,HDD,Intel Core i3,2,IPS,0,100.4546699,Intel,Windows
+Others,Ultrabook,4,1.25,58075.2,128,SSD,Intel Core i5,2.5,IPS,0,111.9352036,Intel,Windows
+Lenovo,Ultrabook,8,1.13,133146.72,512,SSD,Intel Core i7,2.7,IPS,0,157.3505121,Intel,Windows
+Others,Others,8,2.4,63882.72,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Windows
+Lenovo,Ultrabook,8,1.13,99900,256,HDD,Intel Core i5,2.5,IPS,0,157.3505121,Intel,Windows
+Others,Notebook,4,1.75,26586.72,128,SSD,Intel other  Processor,2.1,IPS,0,111.9352036,Intel,Windows
+Asus,Others,8,1.1,72354.24,256,SSD,Intel Core i5,2.5,IPS,1,165.6321181,Intel,Windows
+Dell,Notebook,4,1.76,31168.8,500,HDD,Intel Core i3,2,IPS,0,111.9352036,Intel,Windows
+Acer,Notebook,4,1.35,18914.4,32,HDD,Intel Celeron series process,1.6,IPS,0,135.0942112,Intel,Windows
+Acer,Notebook,8,1.5,32980.32,128,SSD,Intel Core i3,2.4,IPS,0,157.3505121,Intel,Windows
+Others,Others,32,3.49,292986.72,512,SSD,Intel Core i7,2.9,IPS,1,254.6713491,Nvidia,Windows
+Lenovo,Ultrabook,16,1.1,111834.72,512,SSD,Intel Core i7,2.6,IPS,0,209.8006829,Intel,Windows
+Asus,Notebook,4,2.1,27652.32,1,HDD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Others
+Lenovo,Notebook,8,1.7,63190.08,256,SSD,Intel Core i5,2.3,Full HD,0,157.3505121,Intel,Windows
+Lenovo,Notebook,8,1.32,87912,256,SSD,Intel Core i5,2.6,IPS,0,157.3505121,Intel,Windows
+Dell,Others,16,3.21,147832.2864,256,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Asus,Others,16,2.9,128884.32,256,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+Others,Notebook,4,2,35644.32,500,HDD,Intel Core i3,2.4,IPS,0,100.4546699,Intel,Windows
+Lenovo,Notebook,4,1.5,17316,16,HDD,Intel Celeron series process,1.6,IPS,0,111.9352036,Intel,Windows
+Asus,Notebook,8,2.3,31435.2,128,HDD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Windows
+Asus,Others,16,2.73,95850.72,512,SSD,Intel Core i7,2.6,Full HD,0,127.3356746,Nvidia,Windows
+Dell,Others,32,4.42,163723.5792,512,SSD,Intel Core i7,2.8,IPS,0,127.3356746,Nvidia,Windows
+HP,Notebook,8,2.63,48484.8,1,HDD,Intel Core i5,2.5,IPS,0,106.1130621,Nvidia,Windows
+Dell,Notebook,8,2.18,38041.3872,128,SSD,Intel Core i5,2.5,IPS,0,100.4546699,Intel,Windows
+HP,Ultrabook,8,1.54,99633.6,512,SSD,Intel Core i7,2.5,Full HD,0,157.3505121,Intel,Windows
+Dell,Notebook,4,2.18,39373.92,256,SSD,Intel Core i7,2.7,Full HD,0,141.2119981,AMD,Windows
+HP,Others,4,1.4,32767.2,32,HDD,Intel Celeron series process,1.1,IPS,1,135.0942112,Intel,Windows
+Asus,Ultrabook,8,1.45,54665.28,512,SSD,Intel Core i5,2.3,IPS,0,165.6321181,Nvidia,Windows
+HP,Others,8,1.28,121318.56,256,SSD,Intel Core i5,2.5,Full HD,1,165.6321181,Intel,Windows
+HP,Ultrabook,8,1.54,78215.04,512,SSD,Intel Core i7,2.5,Full HD,0,157.3505121,Intel,Windows
+HP,Notebook,4,1.86,15930.72,128,SSD,Intel Celeron series process,1.6,IPS,0,100.4546699,Intel,Others
+Asus,Others,16,2.1,101178.72,128,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Dell,Notebook,8,2.83,46087.2,1,HDD,Intel Core i7,2.7,Full HD,0,127.3356746,AMD,Others
+Lenovo,Ultrabook,8,1.96,101391.84,256,SSD,Intel Core i7,2.8,IPS,0,157.3505121,Nvidia,Windows
+Asus,Notebook,8,2.3,41931.36,256,SSD,Intel Core i7,2.7,IPS,0,141.2119981,Nvidia,Windows
+Dell,Notebook,8,1.9,50349.6,128,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Windows
+Asus,Notebook,4,2,23922.72,1,HDD,Intel other  Processor,1.1,IPS,0,100.4546699,Intel,Windows
+HP,Others,8,1.28,136343.52,256,SSD,Intel Core i7,2.8,Full HD,1,165.6321181,Intel,Windows
+Dell,Notebook,8,1.62,34578.72,1,HDD,Intel Core i5,2.3,Full HD,1,165.6321181,Intel,Windows
+Lenovo,Notebook,4,2.2,24988.32,1,HDD,Intel Core i3,2,Full HD,0,141.2119981,Intel,Others
+Lenovo,Notebook,8,2.3,45323.1648,1,HDD,Intel Core i5,2.5,IPS,0,141.2119981,Intel,Windows
+HP,Notebook,8,1.84,71874.72,256,SSD,Intel Core i5,2.6,Full HD,0,141.2119981,AMD,Windows
+Others,Notebook,4,1.05,68464.8,128,SSD,Intel Core i5,2.5,Full HD,0,165.6321181,Intel,Windows
+Lenovo,Others,8,2.5,54185.76,1,HDD,Intel Core i5,2.5,IPS,0,141.2119981,Nvidia,Others
+Dell,Ultrabook,16,1.29,119347.2,512,SSD,Intel Core i7,2.5,IPS,1,276.0535301,Intel,Windows
+HP,Notebook,4,2.07,48484.8,500,HDD,Intel Core i5,2.3,Full HD,0,141.2119981,Intel,Windows
+Others,Ultrabook,8,1.2,58341.6,256,SSD,Intel Core i5,2.3,IPS,0,117.8265301,Intel,Windows
+Lenovo,Others,8,1.37,103896,256,SSD,Intel Core i7,2.7,IPS,1,165.6321181,Intel,Windows
+Acer,Notebook,8,1.56,48058.56,256,SSD,Intel Core i5,2.5,IPS,0,157.3505121,Intel,Windows
+Dell,Others,8,2.23,94731.84,1,HDD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Lenovo,Notebook,4,2.38,56210.4,500,HDD,Intel Core i5,2.5,IPS,0,100.4546699,Intel,Windows
+Lenovo,Notebook,4,2.2,25521.12,1,HDD,Intel Core i3,2,Full HD,0,141.2119981,AMD,Others
+Others,Notebook,8,2,73952.64,256,SSD,Intel Core i7,2.7,IPS,0,141.2119981,Intel,Windows
+Lenovo,Notebook,4,1.44,39160.8,180,SSD,Intel Core i3,2.4,IPS,0,165.6321181,Intel,Windows
+Others,Ultrabook,16,1.23,98514.72,256,SSD,Intel Core i7,2.7,Full HD,0,146.860478,Nvidia,Windows
+Dell,Ultrabook,8,1.6,90043.2,256,SSD,Intel Core i7,2.8,Full HD,0,176.2325736,Intel,Windows
+Asus,Notebook,4,2,21258.1872,1,HDD,Intel other  Processor,1.1,IPS,0,100.4546699,Intel,Others
+Others,Ultrabook,8,1.28,49816.8,256,SSD,Intel Core i5,2.3,IPS,0,165.6321181,Nvidia,Windows
+Dell,Notebook,4,2.18,48618,128,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Windows
+HP,Notebook,4,2.04,44701.92,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Windows
+HP,Others,4,1.28,90576,256,SSD,Intel Core i5,2.5,Full HD,1,165.6321181,Intel,Windows
+HP,Others,4,2.3,36486.144,500,HDD,Intel Core i5,2.5,IPS,1,100.4546699,Intel,Windows
+Asus,Notebook,4,1.65,18541.44,32,HDD,Intel Celeron series process,1.1,IPS,0,111.1413369,Intel,Windows
+Lenovo,Notebook,8,2.2,35644.32,1,HDD,Intel Core i7,2.5,IPS,0,141.2119981,Nvidia,Windows
+Dell,Notebook,4,2.2,19660.32,500,HDD,Intel other  Processor,1.6,IPS,0,100.4546699,Intel,Windows
+HP,Others,4,1.28,95850.72,256,SSD,Intel Core i5,2.5,Full HD,1,165.6321181,Intel,Windows
+Dell,Notebook,4,2.18,24279.696,1,HDD,Intel Core i3,2,IPS,0,100.4546699,AMD,Others
+Asus,Others,12,2.2,72988.272,128,SSD,Intel Core i5,2.5,Full HD,0,127.3356746,Nvidia,Windows
+Acer,Notebook,4,1.25,15824.16,32,HDD,Intel Celeron series process,1.6,IPS,0,135.0942112,Intel,Windows
+Lenovo,Notebook,4,2.8,20193.12,500,HDD,AMD Processor,2.2,IPS,0,106.1130621,AMD,Windows
+HP,Notebook,4,1.95,67399.2,128,SSD,Intel Core i5,2.5,Full HD,0,157.3505121,Intel,Windows
+HP,Others,16,1.42,74538.72,256,SSD,Intel Core i7,2.7,IPS,1,276.0535301,Intel,Windows
+Others,Ultrabook,8,1.17,90522.72,256,SSD,Intel Core i7,2.7,Full HD,0,146.860478,Intel,Windows
+Lenovo,Ultrabook,8,1.32,95850.72,256,SSD,Intel Core i5,2.5,IPS,0,157.3505121,Intel,Windows
+Others,Others,16,2.43,141138.72,512,SSD,Intel Core i7,2.6,IPS,0,254.6713491,Nvidia,Windows
+Others,Notebook,8,1.05,78588,256,SSD,Intel Core i5,2.5,Full HD,0,165.6321181,Intel,Windows
+Dell,Others,8,2.62,49497.12,1,HDD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Others
+HP,Notebook,8,2.04,47952,1,HDD,Intel Core i7,2.7,Full HD,0,141.2119981,Nvidia,Windows
+Dell,Notebook,4,2.18,32713.92,1,HDD,Intel Core i3,2,IPS,0,100.4546699,AMD,Windows
+Dell,Notebook,8,1.9,49816.8,500,HDD,Intel Core i5,2.6,Full HD,0,141.2119981,Intel,Windows
+Dell,Others,8,1.24,107257.968,512,SSD,Intel Core i7,1.3,IPS,1,276.0535301,Intel,Windows
+Asus,Others,32,3.58,68145.12,256,SSD,Intel Core i7,2.7,IPS,0,127.3356746,Nvidia,Windows
+Dell,Others,16,1.22,87858.72,256,SSD,Intel Core i7,1.3,Full HD,1,165.6321181,Intel,Windows
+Lenovo,Ultrabook,8,1.13,109170.72,256,HDD,Intel Core i7,2.7,IPS,0,157.3505121,Intel,Windows
+Lenovo,Notebook,8,1.95,104588.1072,512,SSD,Intel Core i5,2.5,IPS,0,141.2119981,Intel,Windows
+Others,Ultrabook,16,1.08,111834.72,512,SSD,Intel Core i7,2.7,IPS,1,141.2119981,Intel,Windows
+HP,Notebook,8,1.26,79014.24,512,SSD,Intel Core i7,2.7,Full HD,0,176.2325736,Intel,Windows
+Acer,Notebook,4,2.2,19127.52,16,HDD,Intel Celeron series process,1.5,IPS,0,141.2119981,Intel,Windows
+Lenovo,Notebook,8,2.6,42037.92,128,SSD,Intel Core i5,2.3,IPS,0,141.2119981,Nvidia,Windows
+Others,Ultrabook,8,0.98,101178.72,512,SSD,Intel Core i7,2.7,IPS,1,157.3505121,Intel,Windows
+Dell,Notebook,8,1.6,64202.4,256,SSD,Intel Core i5,2.8,Full HD,0,157.3505121,Intel,Windows
+HP,Ultrabook,8,1.09,165168,240,SSD,Intel other  Processor,1.2,IPS,1,352.4651472,Intel,Windows
+Lenovo,Notebook,6,2.2,42037.92,256,SSD,Intel Core i7,2.7,Full HD,0,141.2119981,Nvidia,Windows
+HP,Notebook,8,2.04,54291.7872,256,SSD,Intel Core i7,2.7,Full HD,0,141.2119981,Nvidia,Windows
+Acer,Notebook,4,2.4,26586.72,1,HDD,Intel Core i3,2.4,Full HD,0,141.2119981,Intel,Windows
+Lenovo,Notebook,4,1.44,46939.68,128,SSD,Intel Core i5,2.5,Full HD,0,165.6321181,Intel,Windows
+HP,Notebook,8,1.49,51148.8,256,SSD,Intel Core i5,2.5,Full HD,0,165.6321181,Intel,Windows
+Others,Others,16,2.7,85194.72,256,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+Dell,Others,16,2.6,71874.72,128,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Others,Others,8,2.2,59668.8048,128,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Windows
+Dell,Notebook,4,2.18,36496.2672,1,HDD,Intel Core i5,2.5,IPS,0,100.4546699,AMD,Windows
+HP,Ultrabook,8,1.84,69103.6272,256,SSD,Intel Core i7,2.5,Full HD,0,141.2119981,AMD,Windows
+HP,Ultrabook,8,1.39,61218.72,256,SSD,Intel Core i7,2.7,IPS,1,276.0535301,Intel,Windows
+Others,Notebook,16,2.4,105228,256,SSD,Intel Core i7,2.6,IPS,0,141.2119981,Nvidia,Windows
+Lenovo,Others,8,1.37,97236,512,SSD,Intel Core i5,2.5,IPS,1,165.6321181,Intel,Windows
+Dell,Notebook,4,1.95,38889.072,500,HDD,Intel Core i5,2.3,IPS,0,100.4546699,Intel,Windows
+Lenovo,Ultrabook,8,1.36,87912,256,SSD,Intel Core i7,2.7,IPS,0,176.2325736,Intel,Windows
+HP,Notebook,8,2.31,62071.2,256,SSD,Intel Core i5,2.3,Full HD,0,141.2119981,Intel,Windows
+Dell,Notebook,4,2.18,37725.4368,1,HDD,Intel Core i5,2.5,IPS,0,100.4546699,Intel,Windows
+HP,Notebook,4,1.95,61218.72,500,HDD,Intel Core i5,2.3,IPS,0,111.9352036,Intel,Windows
+Lenovo,Notebook,4,2.2,16463.52,1,HDD,Intel other  Processor,1.1,IPS,0,100.4546699,Intel,Windows
+HP,Ultrabook,4,1.26,84129.12,500,HDD,Intel Core i5,2.3,Full HD,0,176.2325736,Intel,Windows
+HP,Notebook,4,1.86,15392.592,1,HDD,Intel Celeron series process,1.6,IPS,0,100.4546699,Intel,Others
+Lenovo,Others,16,1.3,95850.72,1,SSD,Intel Core i7,2.2,IPS,1,276.0535301,Intel,Windows
+Others,Notebook,4,1.47,58874.4,128,SSD,Intel Core i5,2.3,IPS,0,157.3505121,Intel,Windows
+HP,Notebook,8,1.26,88924.32,256,SSD,Intel Core i5,2.3,Full HD,0,176.2325736,Intel,Windows
+Dell,Notebook,4,2.18,29762.208,1,HDD,Intel Core i3,2,IPS,0,100.4546699,Intel,Windows
+Others,Others,8,2.2,63882.72,128,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Dell,Ultrabook,8,1.36,87325.92,256,SSD,Intel Core i5,2.5,Full HD,0,157.3505121,Intel,Windows
+Dell,Others,16,4.36,146946.24,512,SSD,Intel Core i7,2.7,IPS,0,169.7808994,Nvidia,Windows
+HP,Others,8,2.75,74538.72,128,SSD,Intel Core i5,2.3,IPS,0,127.3356746,Nvidia,Windows
+Asus,Notebook,4,2.8,28238.4,1,HDD,Intel other  Processor,1.6,IPS,0,106.1130621,Nvidia,Windows
+Acer,Notebook,4,2.23,32980.32,500,HDD,Intel Core i5,2.5,IPS,0,100.4546699,Intel,Windows
+Others,Notebook,8,2.2,59620.32,256,SSD,Intel Core i5,2.3,IPS,0,100.4546699,Intel,Windows
+Lenovo,Others,8,1.1,69210.72,256,SSD,Intel other  Processor,1.2,IPS,1,194.9475372,Intel,Windows
+Lenovo,Others,16,2.5,53226.72,512,SSD,AMD Processor,2.1,IPS,0,141.2119981,AMD,Windows
+Dell,Ultrabook,8,1.36,78438.816,256,SSD,Intel Core i5,2.5,Full HD,1,176.2325736,Intel,Windows
+Lenovo,Notebook,8,2.2,36496.8,1,HDD,Intel Core i7,2.7,Full HD,0,141.2119981,Nvidia,Others
+Dell,Notebook,4,2.36,35111.52,1,HDD,Intel Core i3,2,IPS,0,106.1130621,AMD,Windows
+Acer,Notebook,4,1.68,18594.72,32,HDD,Intel Celeron series process,1.6,IPS,0,111.9352036,Intel,Windows
+HP,Others,8,2,119826.72,8,SSD,Intel Core i7,2.7,IPS,0,141.2119981,Nvidia,Windows
+Dell,Ultrabook,8,1.36,94572,256,SSD,Intel Core i7,2.8,Full HD,0,157.3505121,Intel,Windows
+Others,Notebook,8,1.2,77788.8,256,SSD,Intel Core i5,2.3,Full HD,0,165.6321181,Intel,Windows
+Asus,Others,8,1.2,61751.52,64,HDD,Intel other  Processor,1.2,Full HD,0,176.2325736,Intel,Windows
+Lenovo,Ultrabook,8,1.7,79333.3872,256,SSD,Intel Core i7,2.6,IPS,0,157.3505121,Intel,Windows
+Dell,Others,16,4.36,168045.12,512,SSD,Intel Core i7,2.8,IPS,0,254.6713491,Nvidia,Windows
+Dell,Others,8,1.24,101178.72,256,SSD,Intel Core i5,1.2,Full HD,1,165.6321181,Intel,Windows
+HP,Others,4,1.45,41292,256,SSD,Intel other  Processor,1.1,IPS,1,135.0942112,Intel,Windows
+Dell,Ultrabook,8,1.3,67559.04,256,SSD,Intel Core i7,2.5,IPS,0,276.0535301,Intel,Windows
+Acer,Others,4,1.25,20725.92,32,HDD,Intel Celeron series process,1.6,IPS,1,135.0942112,Intel,Windows
+Others,Notebook,8,1.2,81784.8,256,SSD,Intel Core i5,2.4,Full HD,0,165.6321181,Intel,Windows
+Lenovo,Ultrabook,8,1.36,93772.8,256,SSD,Intel Core i5,2.6,IPS,0,176.2325736,Intel,Windows
+Acer,Notebook,12,2.4,53759.52,128,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Windows
+Others,Ultrabook,8,1.1,95371.2,512,SSD,Intel Core i7,2.7,Full HD,1,176.2325736,Intel,Windows
+HP,Notebook,8,2.04,45101.52,1,HDD,Intel Core i5,2.5,IPS,0,100.4546699,Nvidia,Windows
+Dell,Notebook,4,2.25,24808.2336,1,HDD,Intel Core i3,2,IPS,0,100.4546699,AMD,Others
+Dell,Notebook,4,1.9,43956,500,HDD,Intel Core i5,2.5,IPS,0,100.4546699,Intel,Windows
+HP,Notebook,4,2.04,36496.8,500,HDD,Intel Core i3,2.4,Full HD,0,141.2119981,Intel,Windows
+Dell,Others,32,4.42,167778.72,256,SSD,Intel Core i7,2.8,IPS,0,127.3356746,Nvidia,Windows
+Lenovo,Notebook,6,2.4,37029.6,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Windows
+Dell,Others,16,1.22,101178.72,512,SSD,Intel Core i7,1.3,IPS,1,276.0535301,Intel,Windows
+Dell,Ultrabook,8,1.5,104587.5744,256,SSD,Intel Core i7,2.6,IPS,1,209.8006829,Intel,Windows
+Dell,Others,32,4.42,149184,256,SSD,Intel Core i7,2.6,Full HD,0,127.3356746,Nvidia,Windows
+Others,Notebook,8,1.95,62870.4,256,SSD,Intel Core i5,2.3,Full HD,0,157.3505121,Intel,Windows
+Asus,Others,16,2.73,109218.672,256,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+HP,Notebook,8,2.04,52161.12,128,SSD,Intel Core i5,2.7,IPS,0,141.2119981,Nvidia,Windows
+Lenovo,Notebook,4,1.7,53386.56,508,HDD,Intel Core i5,2.3,IPS,0,111.9352036,Intel,Windows
+Asus,Others,16,2.3,95850.72,512,SSD,Intel Core i7,2.7,IPS,1,282.4239962,Nvidia,Windows
+HP,Notebook,6,2.04,30849.12,1,HDD,Intel Core i7,2.7,IPS,0,100.4546699,Intel,Windows
+Asus,Others,16,2.99,93186.72,256,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+Dell,Others,12,2.19,69210.72,512,SSD,Intel Core i7,2.7,IPS,1,141.2119981,Intel,Windows
+Others,Notebook,4,1.2,63669.6,128,SSD,Intel Core i5,2.3,Full HD,0,165.6321181,Intel,Windows
+Lenovo,Notebook,6,2.2,29250.72,256,SSD,AMD Processor,3.6,Full HD,0,141.2119981,AMD,Windows
+Others,Notebook,4,2.3,34578.72,256,SSD,Intel Core i5,2.3,IPS,0,100.4546699,Intel,Windows
+Others,Notebook,4,1.75,48751.2,500,HDD,Intel Core i5,2.3,IPS,0,111.9352036,Intel,Windows
+Dell,Notebook,4,2.25,31914.72,500,HDD,Intel Core i5,2.5,IPS,0,100.4546699,AMD,Windows
+HP,Notebook,8,2.04,42943.68,1,HDD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Windows
+Lenovo,Others,8,2.5,63349.92,128,SSD,Intel Core i7,2.8,IPS,0,141.2119981,Nvidia,Windows
+Dell,Notebook,8,2.36,39906.72,1,HDD,Intel Core i7,2.7,IPS,0,100.4546699,AMD,Windows
+Dell,Notebook,8,1.6,59620.32,128,SSD,Intel Core i5,2.5,Full HD,0,157.3505121,Intel,Windows
+HP,Notebook,8,0.97,101658.24,512,SSD,Intel other  Processor,1.2,Full HD,0,176.2325736,Intel,Windows
+HP,Notebook,4,2.1,26586.72,128,SSD,Intel Core i3,2,Full HD,0,141.2119981,AMD,Windows
+Lenovo,Notebook,4,1.9,14418.6336,128,SSD,Intel Celeron series process,1.1,IPS,0,100.4546699,Intel,Others
+Lenovo,Notebook,8,2.3,71874.72,256,SSD,Intel Core i5,2.3,Full HD,0,141.2119981,Intel,Windows
+Dell,Others,8,1.68,47365.92,256,SSD,Intel Core i5,2.5,Full HD,1,165.6321181,Intel,Windows
+Asus,Notebook,8,1.4,61272,256,SSD,Intel Core i5,2.5,IPS,0,276.0535301,Intel,Windows
+HP,Ultrabook,8,1.11,71874.72,256,SSD,Intel Core i7,2.7,IPS,1,165.6321181,Intel,Windows
+Acer,Notebook,4,2.4,20246.4,500,HDD,Intel other  Processor,1.1,IPS,0,100.4546699,Intel,Windows
+Asus,Others,16,2.5,95850.72,256,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+HP,Ultrabook,8,1.48,111301.92,512,SSD,Intel Core i7,2.7,Full HD,0,157.3505121,Intel,Windows
+Acer,Others,8,2.7,67132.8,128,SSD,Intel Core i7,2.8,IPS,0,141.2119981,Nvidia,Windows
+HP,Notebook,8,1.34,63349.92,256,SSD,Intel Core i5,2.5,IPS,0,165.6321181,Intel,Windows
+Dell,Notebook,4,2.18,29144.16,128,SSD,Intel Core i3,2.4,IPS,0,100.4546699,Intel,Windows
+HP,Notebook,4,1.64,41505.12,500,HDD,Intel Core i5,2.5,IPS,0,111.9352036,Intel,Windows
+Others,Notebook,4,1.2,63669.6,128,SSD,Intel Core i5,2.3,Full HD,0,165.6321181,Intel,Windows
+HP,Notebook,4,1.48,58607.4672,256,SSD,Intel Core i5,2.4,IPS,0,111.9352036,Intel,Windows
+HP,Notebook,4,1.95,64202.4,256,SSD,Intel Core i5,2.5,Full HD,0,157.3505121,Intel,Windows
+HP,Ultrabook,8,1.43,77202.72,256,SSD,Intel Core i7,2.6,Full HD,0,157.3505121,Intel,Windows
+HP,Notebook,8,1.64,55904.5728,256,SSD,Intel Core i5,2.5,Full HD,0,157.3505121,Nvidia,Windows
+HP,Notebook,4,1.64,36443.52,500,HDD,Intel Core i3,2.4,IPS,0,111.9352036,Intel,Windows
+Dell,Others,8,2.65,50562.72,1,HDD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Windows
+HP,Ultrabook,4,1.26,81997.92,500,HDD,Intel Core i5,2.5,Full HD,0,176.2325736,Intel,Windows
+HP,Notebook,4,1.48,84715.2,256,SSD,Intel Core i5,2.5,Full HD,0,157.3505121,Intel,Windows
+HP,Ultrabook,8,1.54,100550.5488,256,SSD,Intel Core i7,2.5,Full HD,0,157.3505121,Intel,Windows
+HP,Notebook,4,1.49,42624,500,HDD,Intel Core i3,2.4,IPS,0,117.8265301,Intel,Windows
+Others,Notebook,8,1.5,64468.8,256,SSD,Intel Core i5,2.3,IPS,0,117.8265301,Intel,Windows
+HP,Notebook,4,2.04,41025.0672,256,SSD,Intel Core i3,2.4,IPS,0,100.4546699,Intel,Windows
+Lenovo,Notebook,16,2.4,158135.04,512,SSD,Intel Core i7,2.7,IPS,0,254.6713491,Nvidia,Windows
+Others,Notebook,8,1.47,79387.2,256,SSD,Intel Core i5,2.3,IPS,0,157.3505121,Intel,Windows
+HP,Notebook,8,1.43,118761.12,256,SSD,Intel Core i7,2.5,Full HD,0,157.3505121,Intel,Windows
+Dell,Others,4,2.08,42410.3472,1,HDD,Intel Core i3,2.3,IPS,1,141.2119981,Intel,Windows
+Others,Ultrabook,8,1.2,84715.2,256,SSD,Intel Core i5,2.3,Full HD,0,165.6321181,Intel,Windows
+HP,Notebook,8,1.11,61218.72,256,SSD,Intel Core i5,2.5,IPS,0,165.6321181,Intel,Windows
+HP,Notebook,8,1.64,63159.7104,256,SSD,Intel Core i7,2.7,Full HD,0,157.3505121,Nvidia,Windows
+Dell,Notebook,8,2.09,55754.3232,500,HDD,Intel Core i5,2.4,Full HD,0,141.2119981,Intel,Windows
+HP,Ultrabook,4,1.26,83063.52,256,SSD,Intel Core i5,2.5,IPS,0,125.367428,Intel,Windows
+HP,Notebook,4,2.31,63349.92,500,HDD,Intel Core i5,2.5,IPS,0,111.9352036,Intel,Windows
+HP,Notebook,4,1.95,56476.8,500,HDD,Intel Core i5,2.5,IPS,0,111.9352036,Intel,Windows
+Dell,Ultrabook,8,1.29,86526.72,256,SSD,Intel Core i5,2.5,IPS,1,276.0535301,Intel,Windows
+HP,Notebook,8,2.63,57542.4,256,SSD,Intel Core i5,2.5,Full HD,0,127.3356746,Nvidia,Windows
+HP,Notebook,4,1.64,51841.44,256,SSD,Intel Core i5,2.5,IPS,0,111.9352036,Intel,Windows
+Acer,Notebook,6,2.1,21791.52,1,HDD,AMD Processor,3,IPS,0,100.4546699,AMD,Windows
+Others,Others,8,2.7,63499.104,128,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+HP,Notebook,8,1.95,63669.6,256,SSD,Intel Core i5,2.3,Full HD,0,157.3505121,Intel,Windows
+HP,Notebook,8,1.84,65480.5872,256,SSD,Intel Core i7,2.5,Full HD,0,141.2119981,Intel,Windows
+HP,Ultrabook,8,1.26,71874.72,256,SSD,Intel Core i7,2.5,Full HD,0,176.2325736,Intel,Windows
+HP,Notebook,4,2.04,39533.76,500,HDD,Intel Core i5,2.5,IPS,0,100.4546699,Intel,Windows
+Others,Ultrabook,8,1.47,91908,256,SSD,Intel Core i7,2.6,IPS,0,157.3505121,Intel,Windows
+Dell,Notebook,8,2.09,56633.976,256,SSD,Intel Core i5,2.4,Full HD,0,141.2119981,Intel,Windows
+HP,Notebook,8,1.64,53839.9728,256,SSD,Intel Core i5,2.5,Full HD,0,157.3505121,Intel,Windows
+Lenovo,Others,4,1.8,45128.16,256,SSD,Intel Core i7,2.5,IPS,1,141.2119981,Intel,Windows
+Others,Notebook,2,1.45,11231.424,32,HDD,Intel other  Processor,1.44,IPS,0,111.9352036,Intel,Windows
+Others,Notebook,16,2.4,75924,256,SSD,Intel Core i7,2.5,IPS,0,141.2119981,Nvidia,Windows
+Lenovo,Notebook,8,2.3,55922.688,256,SSD,Intel Core i5,2.3,Full HD,0,141.2119981,Intel,Windows
+HP,Notebook,4,1.54,53280,500,HDD,Intel Core i5,2.3,Full HD,0,157.3505121,Intel,Windows
+HP,Notebook,8,1.84,112065.9552,256,SSD,Intel Core i5,2.4,Full HD,0,141.2119981,Intel,Windows
+HP,Notebook,8,1.43,78268.32,256,SSD,Intel Core i5,2.3,Full HD,0,157.3505121,Intel,Windows
+Others,Others,16,3.78,82351.6992,256,SSD,Intel Core i7,2.7,IPS,0,127.3356746,Nvidia,Windows
+Lenovo,Others,16,4.6,122010.6672,128,SSD,Intel Core i7,2.6,IPS,0,127.3356746,Nvidia,Windows
+Asus,Notebook,4,1.2,15339.312,16,HDD,Intel Celeron series process,1.6,IPS,0,135.0942112,Intel,Windows
+Lenovo,Notebook,16,1.1,139593.6,256,SSD,Intel Core i7,2.6,IPS,0,209.8006829,Intel,Windows
+HP,Notebook,8,1.91,52161.12,1,HDD,Intel Core i7,2.7,IPS,0,141.2119981,Nvidia,Windows
+Dell,Others,8,2.3,58288.32,256,SSD,Intel Core i5,2.7,IPS,1,141.2119981,Intel,Windows
+HP,Notebook,4,2.04,52161.12,256,SSD,Intel Core i5,2.5,IPS,0,100.4546699,Intel,Windows
+Dell,Ultrabook,16,1.2,120093.12,1,SSD,Intel Core i7,2.7,IPS,1,276.0535301,Intel,Windows
+HP,Notebook,4,2.31,37570.392,500,HDD,Intel Core i3,2.3,IPS,0,100.4546699,Intel,Windows
+HP,Notebook,4,1.96,26586.72,500,HDD,Intel Core i5,2.5,IPS,0,100.4546699,Intel,Others
+Acer,Notebook,8,2.4,23922.72,1,HDD,AMD Processor,2.2,IPS,0,100.4546699,AMD,Windows
+Dell,Others,12,1.6,69210.72,256,SSD,Intel Core i7,2.7,IPS,1,165.6321181,Intel,Windows
+Others,Others,16,2.94,96916.32,256,SSD,Intel Core i7,2.6,Full HD,0,141.2119981,Nvidia,Windows
+HP,Notebook,8,2.04,57009.6,256,SSD,Intel Core i7,2.7,Full HD,0,141.2119981,Intel,Windows
+Asus,Others,16,4,53173.44,1,HDD,Intel Core i7,2.6,IPS,0,127.3356746,Nvidia,Others
+Dell,Notebook,4,2.25,29783.52,1,HDD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Windows
+Dell,Notebook,16,2.32,52746.6672,2,HDD,Intel Core i7,2.7,Full HD,0,141.2119981,AMD,Windows
+Others,Others,16,1.8,102777.12,256,SSD,Intel Core i7,2.6,Full HD,0,141.2119981,Nvidia,Windows
+Dell,Ultrabook,8,1.29,77682.24,256,SSD,Intel Core i7,2.7,Full HD,0,165.6321181,Intel,Windows
+Asus,Others,64,3.58,211788,1,SSD,Intel Core i7,2.7,IPS,0,127.3356746,Nvidia,Windows
+Dell,Others,8,1.62,42517.9728,256,SSD,Intel Core i7,2.5,Full HD,1,165.6321181,Intel,Windows
+Dell,Others,16,3.21,70809.12,256,SSD,Intel Core i7,2.6,IPS,0,282.4239962,Nvidia,Windows
+Others,Ultrabook,8,0.92,69264,256,HDD,Intel other  Processor,1.1,IPS,0,226.4155472,Intel,Others
+Dell,Notebook,4,2.06,25679.8944,500,HDD,Intel Core i3,2.3,IPS,0,100.4546699,Intel,Windows
+HP,Notebook,4,2.31,63882.72,500,HDD,Intel Core i5,2.3,IPS,0,100.4546699,Intel,Windows
+HP,Ultrabook,8,1.26,63882.72,256,SSD,Intel Core i5,2.3,Full HD,0,176.2325736,Intel,Windows
+HP,Notebook,8,1.49,58075.2,256,SSD,Intel Core i7,2.7,Full HD,0,165.6321181,Intel,Windows
+Lenovo,Ultrabook,8,1.3,91294.7472,256,SSD,Intel Core i7,2.5,IPS,1,176.2325736,Intel,Windows
+Lenovo,Notebook,8,3,35111.52,1,HDD,Intel Core i5,2.3,IPS,0,106.1130621,AMD,Windows
+Lenovo,Notebook,4,2.3,52054.56,1,HDD,Intel Core i5,2.3,IPS,0,141.2119981,Nvidia,Windows
+Others,Others,16,3.78,133146.72,256,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+Lenovo,Notebook,4,2.1,28771.2,500,HDD,Intel Core i5,2.3,IPS,0,100.4546699,Intel,Windows
+HP,Notebook,4,2.31,50083.2,500,HDD,Intel Core i5,2.3,Full HD,0,141.2119981,Intel,Windows
+Lenovo,Ultrabook,8,0.99,74538.72,512,SSD,Intel other  Processor,1.2,IPS,1,234.9767648,Intel,Windows
+Lenovo,Others,32,4.6,172627.2,512,SSD,Intel Core i7,2.7,IPS,0,127.3356746,Nvidia,Windows
+Lenovo,Others,4,0.69,34433.2656,64,HDD,Intel other  Processor,1.44,IPS,1,224.1738091,Intel,Windows
+HP,Ultrabook,16,1.3,109170.72,512,SSD,Intel Core i7,2.7,IPS,0,331.2642361,Intel,Windows
+Dell,Notebook,8,2.18,39960,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Intel,Windows
+HP,Notebook,4,1.54,54931.1472,500,HDD,Intel Core i5,2.3,Full HD,0,157.3505121,Intel,Windows
+HP,Others,8,1.9,79653.6,256,SSD,Intel Core i7,2.5,Full HD,0,141.2119981,AMD,Windows
+Lenovo,Notebook,8,1.7,63882.72,180,SSD,Intel Core i5,2.3,Full HD,0,157.3505121,Intel,Windows
+HP,Notebook,4,1.29,32767.2,32,HDD,Intel other  Processor,1.5,IPS,0,276.0535301,Intel,Windows
+Acer,Notebook,4,2.4,20619.36,500,HDD,AMD Processor,2.2,IPS,0,100.4546699,AMD,Windows
+Dell,Notebook,4,2.2,20965.1472,500,HDD,Intel other  Processor,1.6,IPS,0,100.4546699,Intel,Others
+HP,Notebook,4,1.86,18434.3472,1,HDD,Intel Core i3,2,IPS,0,100.4546699,Intel,Others
+Asus,Others,8,2.7,85194.72,256,SSD,Intel Core i7,2.8,IPS,0,127.3356746,Nvidia,Windows
+Dell,Ultrabook,4,1.4,43601.688,256,SSD,Intel Core i5,1.6,IPS,0,165.6321181,AMD,Windows
+HP,Notebook,4,2.4,85194.72,128,SSD,Intel Core i5,2.3,IPS,0,125.367428,Intel,Windows
+Acer,Notebook,8,2.4,42570.72,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Windows
+Dell,Notebook,8,2.36,34035.264,1,HDD,Intel Core i5,2.5,Full HD,0,141.2119981,AMD,Windows
+Others,Others,8,2.6,85194.72,256,SSD,Intel Core i7,2.6,Full HD,0,127.3356746,Nvidia,Windows
+HP,Notebook,4,1.96,26640,1,HDD,Intel other  Processor,1.6,IPS,0,100.4546699,Intel,Windows
+Asus,Others,16,4.3,122490.72,128,SSD,Intel Core i7,2.6,IPS,0,127.3356746,Nvidia,Windows
+Dell,Ultrabook,4,1.5,60480.792,500,HDD,Intel Core i3,2.3,IPS,0,125.367428,Intel,Windows
+Dell,Ultrabook,4,1.5,62176.1616,128,SSD,Intel Core i3,2.3,IPS,0,125.367428,Intel,Windows
+Acer,Notebook,4,2.2,11135.52,16,SSD,Intel Celeron series process,1.5,IPS,0,100.4546699,Intel,Windows
+HP,Others,8,3,154458.72,1,HDD,Intel Core i7,2.6,IPS,0,127.3356746,AMD,Windows
+Lenovo,Others,16,2.4,63882.72,512,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Dell,Ultrabook,8,1.5,75289.968,256,SSD,Intel Core i5,2.3,IPS,0,125.367428,Intel,Windows
+Others,Others,8,2.9,80516.2032,128,SSD,Intel Core i7,2.6,Full HD,0,127.3356746,Nvidia,Windows
+Lenovo,Others,4,2.1,46193.76,256,SSD,Intel Core i5,2.3,IPS,1,141.2119981,Intel,Windows
+HP,Notebook,4,2.1,21205.44,1,HDD,AMD Processor,2.5,Full HD,0,141.2119981,AMD,Windows
+Asus,Others,16,2.59,71341.92,128,SSD,Intel Core i7,2.6,IPS,0,141.2119981,Nvidia,Windows
+HP,Notebook,8,1.16,90522.72,256,SSD,Intel other  Processor,1.1,IPS,1,276.0535301,Intel,Windows
+Dell,Notebook,4,2.24,40980.312,500,HDD,Intel Core i5,2.3,IPS,0,100.4546699,AMD,Windows
+Lenovo,Notebook,4,2.1,22857.12,128,SSD,Intel Core i3,2,IPS,0,100.4546699,Intel,Windows
+HP,Ultrabook,8,1.16,104908.32,512,SSD,Intel Core i7,2.5,Full HD,0,165.6321181,Intel,Windows
+Lenovo,Others,4,0.69,29250.72,64,HDD,Intel other  Processor,1.44,IPS,1,224.1738091,Intel,Others
+Dell,Ultrabook,8,1.23,73473.12,256,SSD,Intel Core i7,2.4,Full HD,0,165.6321181,Intel,Windows
+Lenovo,Others,16,4.6,146519.4672,256,SSD,Intel Core i7,2.7,IPS,0,127.3356746,Nvidia,Windows
+Others,Ultrabook,8,1.25,54825.12,256,SSD,Intel Core i7,2.5,IPS,1,352.4651472,Intel,Windows
+Others,Ultrabook,16,1.05,118601.28,512,SSD,Intel Core i7,2.7,Full HD,0,165.6321181,Intel,Windows
+Asus,Others,8,3.52,69929.4672,128,SSD,Intel Core i7,2.6,Full HD,0,127.3356746,Nvidia,Windows
+Others,Notebook,4,1.35,10442.88,32,HDD,Intel other  Processor,1.44,Full HD,0,165.6321181,Intel,Windows
+HP,Notebook,8,1.16,90043.2,256,SSD,Intel Core i5,2.3,Full HD,0,165.6321181,Intel,Windows
+HP,Notebook,8,1.43,80612.64,256,SSD,Intel Core i5,2.3,Full HD,0,157.3505121,Intel,Windows
+Dell,Notebook,4,2.09,27899.0064,500,HDD,Intel Core i5,2.3,IPS,0,100.4546699,Intel,Others
+Asus,Notebook,4,2,23176.8,1,HDD,Intel Core i3,2.4,IPS,0,100.4546699,Intel,Windows
+Lenovo,Others,8,1.8,88924.32,256,SSD,Intel Core i7,2.5,IPS,1,157.3505121,Intel,Windows
+Lenovo,Others,4,0.69,25521.12,64,HDD,Intel other  Processor,1.44,IPS,1,224.1738091,Intel,Windows
+HP,Ultrabook,8,1.26,100965.6,256,SSD,Intel Core i5,2.4,IPS,0,125.367428,Intel,Windows
+Lenovo,Others,8,2.4,52693.92,128,SSD,Intel Core i5,2.5,IPS,0,141.2119981,Nvidia,Others
+HP,Others,8,3.35,60153.12,128,SSD,Intel Core i5,2.3,IPS,0,127.3356746,Nvidia,Windows
+HP,Notebook,8,2.04,33513.12,2,HDD,Intel Core i7,2.7,IPS,0,100.4546699,Intel,Windows
+Lenovo,Others,8,1.8,109244.2464,512,SSD,Intel Core i7,2.6,IPS,1,157.3505121,Nvidia,Windows
+Asus,Notebook,4,1.5,14811.84,32,HDD,Intel Celeron series process,1.1,IPS,0,111.9352036,Intel,Windows
+HP,Ultrabook,8,1.84,40066.56,256,SSD,Intel Core i7,2.7,Full HD,0,141.2119981,Intel,Windows
+Acer,Notebook,4,2.23,32820.48,1,HDD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Windows
+Lenovo,Notebook,16,2.5,58554.72,1,HDD,Intel Core i7,2.5,Full HD,0,141.2119981,AMD,Windows
+HP,Others,8,3,210424.032,256,SSD,Intel Core i7,2.6,IPS,0,127.3356746,Nvidia,Windows
+Dell,Notebook,8,2.5,41771.52,1,HDD,Intel Core i5,2.5,IPS,0,100.4546699,AMD,Windows
+Others,Others,16,3.78,127818.72,256,SSD,Intel Core i7,2.7,Full HD,0,127.3356746,Nvidia,Windows
+HP,Ultrabook,8,1.88,115709.2416,256,SSD,Intel Core i7,2.5,Full HD,0,141.2119981,Intel,Windows
+Lenovo,Others,16,2.8,130003.2,512,SSD,Intel Core i7,2.6,IPS,1,209.8006829,Intel,Windows
+Others,Others,8,2.4,60888.384,128,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+HP,Others,8,1.48,86793.12,256,SSD,Intel Core i5,2.4,Full HD,1,165.6321181,Intel,Windows
+HP,Others,8,2.59,118761.12,256,SSD,Intel Core i7,2.6,IPS,0,141.2119981,Nvidia,Windows
+HP,Others,8,1.48,95850.72,256,SSD,Intel Core i7,2.6,IPS,1,220.8428241,Intel,Windows
+HP,Others,8,2,101178.72,256,SSD,Intel Core i7,2.6,Full HD,0,141.2119981,Nvidia,Windows
+HP,Ultrabook,8,1.26,122381.496,256,SSD,Intel Core i7,2.5,Full HD,0,176.2325736,Intel,Windows
+Dell,Notebook,8,2.18,53807.472,256,SSD,Intel Core i7,2.7,Full HD,0,141.2119981,Nvidia,Windows
+HP,Notebook,8,1.88,84129.12,256,SSD,Intel Core i5,2.3,Full HD,0,141.2119981,Intel,Windows
+Lenovo,Others,8,1.27,124621.92,256,SSD,Intel Core i7,2.5,IPS,1,209.8006829,Intel,Windows
+Lenovo,Notebook,4,1.9,18061.92,1,HDD,Intel Core i3,2,IPS,0,100.4546699,Intel,Others
+HP,Notebook,4,1.86,15824.16,500,HDD,AMD Processor,1.8,IPS,0,100.4546699,AMD,Windows
+Lenovo,Notebook,8,2.32,31914.72,1,HDD,Intel Core i5,2.3,Full HD,0,141.2119981,AMD,Others
+Dell,Others,8,2.62,63882.72,1,HDD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Dell,Notebook,8,2.04,119916.2304,256,SSD,Intel Core i5,2.3,IPS,1,282.4239962,Nvidia,Windows
+HP,Notebook,4,1.91,25515.2592,256,SSD,AMD Processor,2.5,Full HD,0,141.2119981,AMD,Windows
+Others,Others,16,2.7,79536.384,256,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+Lenovo,Ultrabook,12,1.4,122490.72,512,SSD,Intel Core i7,2.6,Full HD,0,157.3505121,Intel,Windows
+Lenovo,Notebook,8,2.5,42010.7472,1,HDD,Intel Core i5,2.3,Full HD,0,141.2119981,AMD,Windows
+HP,Others,8,1.48,108744.48,512,SSD,Intel Core i7,2.6,IPS,1,220.8428241,Intel,Windows
+Lenovo,Ultrabook,8,1.7,79866.72,256,SSD,Intel Core i7,2.6,Full HD,0,157.3505121,Intel,Windows
+Others,Others,16,1.7,94252.32,256,SSD,Intel Core i7,2.6,Full HD,0,157.3505121,Nvidia,Windows
+HP,Others,8,2.62,47898.72,1,HDD,Intel Core i7,2.8,IPS,0,141.2119981,Nvidia,Windows
+Lenovo,Notebook,8,2.2,24455.52,1,HDD,Intel Core i3,2,IPS,0,100.4546699,Intel,Windows
+HP,Notebook,4,2.1,25414.0272,500,HDD,Intel Core i5,2.3,IPS,0,100.4546699,Intel,Others
+Dell,Others,8,2.62,79813.44,128,SSD,Intel Core i7,2.8,IPS,0,282.4239962,Nvidia,Windows
+Lenovo,Notebook,8,1.95,74059.2,256,SSD,Intel Core i5,2.5,IPS,0,141.2119981,Intel,Windows
+Lenovo,Notebook,4,2.2,24935.04,1,HDD,Intel Core i3,2,Full HD,0,141.2119981,Nvidia,Windows
+HP,Notebook,2,1.44,13266.72,32,HDD,Intel Celeron series process,1.6,IPS,0,111.9352036,Intel,Windows
+Others,Others,8,2.2,44701.92,1,HDD,Intel Core i7,2.7,IPS,0,141.2119981,Nvidia,Windows
+HP,Notebook,8,1.96,36177.12,256,SSD,Intel Core i7,2.5,Full HD,0,141.2119981,Intel,Windows
+HP,Notebook,16,2.1,61751.52,512,SSD,Intel Core i7,1.8,Full HD,0,141.2119981,Intel,Windows
+Asus,Notebook,4,2.2,19660.32,500,HDD,Intel Celeron series process,1.6,IPS,0,100.4546699,Intel,Windows
+Lenovo,Notebook,4,2.1,21205.44,500,HDD,Intel Core i5,2.3,IPS,0,100.4546699,Intel,Others
+Lenovo,Notebook,8,2.2,37775.52,1,HDD,Intel Core i7,2.7,Full HD,0,141.2119981,Nvidia,Others
+Asus,Notebook,4,2,40972.32,256,SSD,Intel Core i3,2.4,Full HD,0,157.3505121,Intel,Windows
+Lenovo,Notebook,4,2.32,43956,1,HDD,Intel Core i7,2.5,Full HD,0,141.2119981,Intel,Windows
+Lenovo,Others,16,3.31,69530.4,512,SSD,Intel Core i7,2.6,IPS,0,141.2119981,Nvidia,Windows
+Others,Others,16,1.91,114731.5536,128,SSD,Intel Core i7,2.6,Full HD,0,141.2119981,Nvidia,Windows
+HP,Notebook,4,2.07,34632,500,HDD,Intel Core i3,2.3,IPS,0,100.4546699,Intel,Windows
+Lenovo,Others,8,1.36,87219.36,256,SSD,Intel Core i5,2.3,IPS,1,209.8006829,Intel,Windows
+Lenovo,Ultrabook,6,1.54,44275.68,256,SSD,Intel Core i7,2.7,Full HD,0,141.2119981,Nvidia,Windows
+Dell,Notebook,8,1.98,47686.1328,256,SSD,Intel Core i7,2.7,Full HD,0,141.2119981,Nvidia,Others
+Acer,Notebook,4,2.1,17742.24,500,HDD,Intel Celeron series process,2,IPS,0,100.4546699,Intel,Windows
+HP,Notebook,6,2.18,42570.72,1,HDD,Intel Core i7,2.6,IPS,0,141.2119981,Nvidia,Windows
+Asus,Others,8,2.591,48431.52,256,SSD,Intel Core i7,2.6,IPS,0,141.2119981,Nvidia,Windows
+Dell,Others,16,2.09,62817.12,512,SSD,Intel Core i7,2.7,Full HD,1,141.2119981,Intel,Windows
+Acer,Notebook,4,2.23,36816.48,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,Nvidia,Windows
+Dell,Ultrabook,8,1.23,58554.72,256,SSD,Intel Core i5,2.4,IPS,1,276.0535301,Intel,Others
+Acer,Others,16,4.2,138474.72,256,SSD,Intel Core i7,2.8,IPS,0,127.3356746,Nvidia,Windows
+Lenovo,Others,8,2.4,43636.32,1,HDD,Intel Core i5,2.5,IPS,0,141.2119981,Nvidia,Windows
+HP,Notebook,4,1.86,25840.8,500,HDD,Intel Core i5,2.5,IPS,0,100.4546699,Intel,Windows
+Others,Ultrabook,8,0.92,61964.64,256,HDD,Intel other  Processor,1.1,IPS,0,226.4155472,Intel,Others
+Dell,Others,8,1.6,63882.72,256,SSD,Intel Core i5,2.5,IPS,1,165.6321181,Intel,Windows
+HP,Notebook,12,2.21,70702.56,128,SSD,Intel Core i7,2.8,IPS,0,141.2119981,Nvidia,Windows
+Lenovo,Notebook,4,1.9,19607.04,1,HDD,Intel Core i3,2,IPS,0,100.4546699,AMD,Others
+Asus,Others,16,4.3,114552,512,SSD,Intel Core i7,2.6,IPS,0,127.3356746,Nvidia,Windows
+Acer,Notebook,4,2.1,14492.16,1,HDD,Intel Celeron series process,2,IPS,0,100.4546699,Intel,Others
+Others,Others,16,2.43,109165.392,256,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+Dell,Notebook,4,2.3,26586.72,128,SSD,Intel Core i3,2,IPS,0,100.4546699,AMD,Windows
+Lenovo,Notebook,8,2.2,33513.12,500,HDD,Intel Core i7,2.5,IPS,0,100.4546699,Nvidia,Others
+Dell,Others,16,2,68464.8,512,SSD,Intel Core i7,1.8,Full HD,1,141.2119981,Intel,Windows
+Dell,Ultrabook,16,1.2,142790.4,512,SSD,Intel Core i7,2.7,IPS,1,276.0535301,Intel,Windows
+Asus,Others,8,2.2,62284.32,1,HDD,Intel Core i7,2.6,Full HD,0,141.2119981,Nvidia,Windows
+Dell,Notebook,8,2.36,47365.92,256,SSD,Intel Core i5,2.5,Full HD,0,141.2119981,AMD,Windows
+HP,Notebook,8,1.91,30849.12,256,SSD,Intel Core i5,2.5,IPS,0,100.4546699,Intel,Windows
+Lenovo,Notebook,4,2.2,15930.72,500,HDD,AMD Processor,2.2,IPS,0,100.4546699,AMD,Windows
+Acer,Notebook,8,3.3,33513.12,1,HDD,Intel Core i3,2,IPS,0,106.1130621,Nvidia,Windows
+Asus,Others,16,2.2,130482.72,256,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Others,Ultrabook,8,0.92,68145.12,512,HDD,Intel other  Processor,1.2,IPS,0,226.4155472,Intel,Others
+Asus,Notebook,16,2.2,93186.72,128,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Others,Others,16,2.43,103842.1872,256,SSD,Intel Core i7,2.6,IPS,0,127.3356746,Nvidia,Windows
+Dell,Others,8,2.191,53226.72,256,SSD,Intel Core i5,2.5,IPS,1,141.2119981,Intel,Windows
+Asus,Others,16,2.9,103842.72,256,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+Acer,Notebook,2,1.3,9270.72,32,SSD,Intel Celeron series process,1.5,IPS,0,135.0942112,Intel,Windows
+Acer,Notebook,4,3.3,31861.44,1,HDD,Intel Core i3,2,IPS,0,106.1130621,Nvidia,Windows
+Lenovo,Notebook,8,2.8,28717.92,1,HDD,Intel Core i5,2.5,IPS,0,106.1130621,Intel,Others
+Lenovo,Others,8,2.6,67772.16,128,SSD,Intel Core i7,2.6,IPS,0,141.2119981,Nvidia,Windows
+Acer,Others,8,1.2,61218.72,256,SSD,Intel Core i7,1.3,IPS,1,157.3505121,Intel,Windows
+Lenovo,Notebook,8,2.3,81465.12,256,SSD,Intel Core i7,2.6,IPS,0,141.2119981,Intel,Windows
+Others,Others,8,2.2,78647.1408,128,SSD,Intel Core i7,2.6,Full HD,0,141.2119981,Nvidia,Windows
+HP,Notebook,6,2.1,28185.12,1,HDD,AMD Processor,2.7,Full HD,0,141.2119981,AMD,Windows
+Dell,Ultrabook,8,1.26,91288.3536,256,SSD,Intel Core i5,2.4,Full HD,1,176.2325736,Intel,Windows
+Dell,Others,4,2.08,27119.52,500,HDD,Intel Core i3,2.4,Full HD,1,146.860478,Intel,Windows
+Asus,Notebook,4,2.65,16463.52,1,HDD,Intel other  Processor,1.6,IPS,0,100.4546699,Intel,Windows
+Dell,Ultrabook,8,1.29,78694.56,256,SSD,Intel Core i7,2.7,IPS,1,276.0535301,Intel,Windows
+Dell,Notebook,4,2.18,27804.7008,1,HDD,Intel Core i5,2.5,IPS,0,100.4546699,Intel,Others
+Lenovo,Others,16,2.6,54825.12,128,SSD,Intel Core i7,2.6,IPS,1,141.2119981,Nvidia,Windows
+Others,Others,8,2.2,61218.72,128,SSD,Intel Core i7,2.8,Full HD,0,141.2119981,Nvidia,Windows
+Lenovo,Notebook,16,1.3,87912,512,SSD,Intel Core i7,2.5,IPS,1,176.2325736,Intel,Windows
+Others,Others,16,1.95,186426.72,1,SSD,Intel Core i7,2.8,Full HD,0,157.3505121,Nvidia,Windows
+Dell,Notebook,8,2.3,24988.8528,1,HDD,Intel Core i3,2.4,IPS,1,100.4546699,Intel,Windows
+Others,Others,16,2.7,85141.44,256,SSD,Intel Core i7,2.8,Full HD,0,127.3356746,Nvidia,Windows
+Others,Ultrabook,4,1.08,51095.52,256,HDD,Intel Core i5,1.6,IPS,0,135.0942112,Intel,Others
+HP,Notebook,4,2.1,25467.84,1,HDD,Intel Core i3,2,Full HD,0,141.2119981,Intel,Windows
+HP,Ultrabook,8,1.54,117119.5632,256,SSD,Intel Core i7,2.5,IPS,0,209.8006829,Intel,Windows
+Dell,Notebook,4,2.24,39267.36,500,HDD,Intel Core i5,2.3,IPS,0,100.4546699,Intel,Windows
+Others,Others,8,2.3,62284.32,128,SSD,Intel Core i7,2.6,Full HD,0,141.2119981,Nvidia,Windows
+Lenovo,Notebook,16,1.4,79866.72,512,SSD,Intel Core i7,2.7,IPS,0,165.6321181,Intel,Windows
+Lenovo,Notebook,6,2.2,31838.5296,256,SSD,AMD Processor,3.6,Full HD,0,141.2119981,AMD,Windows
+Asus,Ultrabook,8,1.45,68198.4,256,SSD,Intel Core i7,2.5,Full HD,0,165.6321181,Intel,Windows
+Acer,Notebook,4,2.4,19276.704,500,HDD,Intel Core i3,2,IPS,0,100.4546699,Intel,Others
+Dell,Others,16,2.77,95850.72,512,SSD,Intel Core i7,2.7,Full HD,1,127.3356746,Nvidia,Windows
+HP,Notebook,4,1.54,58607.4672,256,SSD,Intel Core i5,2.3,Full HD,0,157.3505121,Intel,Windows
+Asus,Others,16,2.5,85248,256,SSD,Intel Core i7,2.8,IPS,0,141.2119981,Nvidia,Windows
+Dell,Notebook,4,1.6,46620,500,HDD,Intel Core i5,2.5,IPS,0,111.9352036,Intel,Windows
+Asus,Others,16,2.34,123876,256,SSD,Intel Core i7,2.6,IPS,0,141.2119981,Nvidia,Windows
+Lenovo,Notebook,8,2.3,30529.44,256,SSD,Intel Core i5,2.5,IPS,0,141.2119981,Intel,Others
+Dell,Others,8,1.24,96596.64,256,SSD,Intel Core i5,1.2,IPS,1,276.0535301,Intel,Windows
+Dell,Notebook,4,2.2,17262.72,500,HDD,Intel other  Processor,1.6,IPS,0,100.4546699,Intel,Others
+HP,Notebook,4,1.86,21258.72,500,HDD,AMD Processor,2.5,IPS,0,100.4546699,AMD,Windows
+Lenovo,Notebook,6,2.4,30316.32,128,SSD,Intel Core i3,2.3,Full HD,0,141.2119981,Nvidia,Windows
+Lenovo,Notebook,8,1.9,57116.16,256,SSD,Intel Core i5,2.3,IPS,0,157.3505121,Intel,Windows
+Dell,Notebook,4,2.2,23655.7872,500,HDD,Intel other  Processor,1.6,IPS,0,100.4546699,Intel,Windows
+Asus,Notebook,4,2,18061.92,1,HDD,Intel Celeron series process,1.1,IPS,0,100.4546699,Intel,Windows
+Asus,Others,16,4,101232,128,SSD,Intel Core i7,2.6,IPS,0,127.3356746,Nvidia,Windows
+Dell,Notebook,4,2.29,26107.2,500,HDD,Intel Core i3,2,IPS,0,100.4546699,Intel,Windows
+Lenovo,Notebook,8,2.32,47685.6,1,HDD,Intel Core i7,2.5,Full HD,0,141.2119981,AMD,Windows
+Others,Others,8,2.4,65481.12,128,SSD,Intel Core i7,2.6,Full HD,0,141.2119981,Nvidia,Windows
+Lenovo,Others,4,1.8,44382.7728,128,SSD,Intel Core i5,2.3,Full HD,1,157.3505121,Intel,Windows
+Asus,Ultrabook,8,1.2,38841.12,512,SSD,Intel other  Processor,0.9,IPS,0,165.6321181,Intel,Windows
+Dell,Notebook,6,2.3,24455.52,1,HDD,Intel Core i3,2.4,IPS,0,100.4546699,Intel,Windows
+Acer,Notebook,4,2.4,15397.92,500,HDD,Intel Celeron series process,1.6,IPS,0,100.4546699,Intel,Others
+Dell,Notebook,2,2.2,20193.12,500,HDD,Intel Celeron series process,1.6,IPS,0,100.4546699,Intel,Windows
+Lenovo,Notebook,8,2.6,47898.72,1,HDD,Intel Core i7,2.6,IPS,0,141.2119981,Nvidia,Windows
+HP,Notebook,6,2.04,29303.4672,1,HDD,AMD Processor,2.9,Full HD,0,141.2119981,AMD,Windows
+Dell,Notebook,8,2.3,42943.1472,1,HDD,Intel Core i7,2.7,IPS,0,100.4546699,AMD,Others
+HP,Notebook,2,1.17,11135.52,32,HDD,Intel Celeron series process,1.6,IPS,0,135.0942112,Intel,Windows
+Asus,Notebook,4,2.2,38378.6496,500,HDD,Intel Core i7,2.5,IPS,0,100.4546699,Nvidia,Windows
+Lenovo,Others,4,1.8,33992.64,128,SSD,Intel Core i7,2.5,IPS,1,157.3505121,Intel,Windows
+Lenovo,Others,16,1.3,79866.72,512,SSD,Intel Core i7,2.5,IPS,1,276.0535301,Intel,Windows
+Lenovo,Notebook,2,1.5,12201.12,64,HDD,Intel Celeron series process,1.6,IPS,0,111.9352036,Intel,Windows
+HP,Notebook,6,2.19,40705.92,1,HDD,Intel Core i7,2.5,IPS,0,100.4546699,AMD,Windows
+Asus,Notebook,4,2.2,19660.32,500,HDD,Intel Celeron series process,1.6,IPS,0,100.4546699,Intel,Windows
+Asus,Ultrabook,8,1.2,38841.12,512,SSD,Intel other  Processor,0.9,IPS,0,165.6321181,Intel,Windows
+Dell,Notebook,6,2.3,24455.52,1,HDD,Intel Core i3,2.4,IPS,0,100.4546699,Intel,Windows
+Acer,Notebook,4,2.4,15397.92,500,HDD,Intel Celeron series process,1.6,IPS,0,100.4546699,Intel,Others
+Dell,Notebook,2,2.2,20193.12,500,HDD,Intel Celeron series process,1.6,IPS,0,100.4546699,Intel,Windows
+Lenovo,Notebook,8,2.6,47898.72,1,HDD,Intel Core i7,2.6,IPS,0,141.2119981,Nvidia,Windows
+HP,Notebook,6,2.04,29303.4672,1,HDD,AMD Processor,2.9,Full HD,0,141.2119981,AMD,Windows
+Dell,Notebook,8,2.3,42943.1472,1,HDD,Intel Core i7,2.7,IPS,0,100.4546699,AMD,Others
+HP,Notebook,2,1.17,11135.52,32,HDD,Intel Celeron series process,1.6,IPS,0,135.0942112,Intel,Windows
+Asus,Notebook,4,2.2,38378.6496,500,HDD,Intel Core i7,2.5,IPS,0,100.4546699,Nvidia,Windows
+Lenovo,Others,4,1.8,33992.64,128,SSD,Intel Core i7,2.5,IPS,1,157.3505121,Intel,Windows
+Lenovo,Others,16,1.3,79866.72,512,SSD,Intel Core i7,2.5,IPS,1,276.0535301,Intel,Windows
+Lenovo,Notebook,2,1.5,12201.12,64,HDD,Intel Celeron series process,1.6,IPS,0,111.9352036,Intel,Windows
+HP,Notebook,6,2.19,40705.92,1,HDD,Intel Core i7,2.5,IPS,0,100.4546699,AMD,Windows
+Asus,Notebook,4,2.2,19660.32,500,HDD,Intel Celeron series process,1.6,IPS,0,100.4546699,Intel,Windows
+Asus,Ultrabook,8,1.2,38841.12,512,SSD,Intel other  Processor,0.9,IPS,0,165.6321181,Intel,Windows
+Dell,Notebook,6,2.3,24455.52,1,HDD,Intel Core i3,2.4,IPS,0,100.4546699,Intel,Windows
+Acer,Notebook,4,2.4,15397.92,500,HDD,Intel Celeron series process,1.6,IPS,0,100.4546699,Intel,Others
+Dell,Notebook,2,2.2,20193.12,500,HDD,Intel Celeron series process,1.6,IPS,0,100.4546699,Intel,Windows
+Lenovo,Notebook,8,2.6,47898.72,1,HDD,Intel Core i7,2.6,IPS,0,141.2119981,Nvidia,Windows
+HP,Notebook,6,2.04,29303.4672,1,HDD,AMD Processor,2.9,Full HD,0,141.2119981,AMD,Windows
+Dell,Notebook,8,2.3,42943.1472,1,HDD,Intel Core i7,2.7,IPS,0,100.4546699,AMD,Others
+HP,Notebook,2,1.17,11135.52,32,HDD,Intel Celeron series process,1.6,IPS,0,135.0942112,Intel,Windows
+Asus,Notebook,4,2.2,38378.6496,500,HDD,Intel Core i7,2.5,IPS,0,100.4546699,Nvidia,Windows
+Lenovo,Others,4,1.8,33992.64,128,SSD,Intel Core i7,2.5,IPS,1,157.3505121,Intel,Windows
+Lenovo,Others,16,1.3,79866.72,512,SSD,Intel Core i7,2.5,IPS,1,276.0535301,Intel,Windows
+Lenovo,Notebook,2,1.5,12201.12,64,HDD,Intel Celeron series process,1.6,IPS,0,111.9352036,Intel,Windows
+HP,Notebook,6,2.19,40705.92,1,HDD,Intel Core i7,2.5,IPS,0,100.4546699,AMD,Windows
+Asus,Notebook,4,2.2,19660.32,500,HDD,Intel Celeron series process,1.6,IPS,0,100.4546699,Intel,Windows
